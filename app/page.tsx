@@ -166,7 +166,7 @@ export default function Home(){
  const profile=profiles[activeCode];
  const clamp=(n:number,min:number,max:number)=>Math.max(min,Math.min(max,n));
  const focus=hover&&hoverPos?hoverPos:{x:stage.w/2,y:stage.h/2};
- const cardW=stage.w<=870?235:270,bottomW=stage.w<=870?430:480,gap=stage.w<=1050?82:112,topOffset=stage.h<=720?215:245,bottomOffset=stage.h<=720?105:125;
+ const cardW=clamp(stage.w*.34,190,stage.w<=870?235:270),bottomW=clamp(stage.w*.66,280,stage.w<=870?430:480),gap=clamp(stage.w*.08,24,stage.w<=1050?82:112),topOffset=stage.h<=720?215:245,bottomOffset=stage.h<=720?105:125;
  const layout:FocusLayout={...stage,x:focus.x,y:focus.y,cardW,bottomW,leftX:clamp(focus.x-cardW-gap,12,stage.w-cardW-12),leftY:clamp(focus.y-topOffset,12,stage.h-300),rightX:clamp(focus.x+gap,12,stage.w-cardW-12),rightY:clamp(focus.y-topOffset,12,stage.h-330),bottomX:clamp(focus.x-bottomW/2,12,stage.w-bottomW-12),bottomY:clamp(focus.y+bottomOffset,12,stage.h-225)};
  const workspaceStyle={"--focus-x":`${layout.x}px`,"--focus-y":`${layout.y}px`,"--name-y":`${layout.y-88}px`} as CSSProperties;
  if(error)return <main className="loading"><h1>Le portrait n’a pas pu être chargé.</h1><p>Vérifiez votre connexion puis réessayez.</p><p className="error-detail">{error}</p><button onClick={()=>location.reload()}>Réessayer</button></main>;

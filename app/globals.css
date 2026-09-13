@@ -35,7 +35,7 @@
 @media(max-width:650px){.theme-tabs{display:grid!important;grid-template-columns:1fr 1fr;gap:5px;width:100%}.theme-switch{grid-template-columns:19px minmax(0,1fr) 26px;gap:6px;min-height:42px;padding:7px 8px;font-size:12px;line-height:1.15}.theme-switch svg{width:17px;height:17px}.toolbar{min-height:112px;padding:5px 10px 8px}.commune-picker{width:100%}.portrait-sheet>[data-slot=sheet-close]{top:max(10px,env(safe-area-inset-top))!important;right:max(10px,env(safe-area-inset-right))!important}}
 
 /* Gabarit commun des pages Atlas : panneau, réglages et fiche latérale */
-@media(min-width:651px){
+@media(min-width:1100px){
  .atlas-app{height:100dvh;display:grid;grid-template-columns:390px minmax(0,1fr);grid-template-rows:86px minmax(0,1fr);gap:16px;padding:0 18px 14px;overflow:hidden;background:linear-gradient(115deg,#eef3ff,#f8fbff)}
  .atlas-header{grid-column:1/-1;grid-row:1;margin:0 -18px;height:86px;min-height:86px;padding:10px 22px}
  .toolbar{grid-column:1;grid-row:2;height:auto;min-height:0;padding:22px;gap:0;overflow-y:auto;border:1px solid #dce3ed;border-radius:22px;background:#fffffff5;box-shadow:0 16px 42px #0f172a14}
