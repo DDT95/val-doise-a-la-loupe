@@ -1,0 +1,4774 @@
+{
+  "95002": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95002",
+      "nom": "Mairie - Ableiges",
+      "telephone": "01 34 66 01 12",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue Gilles-de-Maupeou",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Ableiges",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.97908997536",
+        "latitude": "49.0854988098"
+      },
+      "site": "http://www.ableiges.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/55e63c96-f8a4-424c-a9fd-52ddf515b6ef"
+    },
+    "france_services": null
+  },
+  "95008": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95008",
+      "nom": "Mairie - Aincourt",
+      "telephone": "01 34 76 71 12",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "4 rue d'Arthies",
+        "service_distribution": "",
+        "code_postal": "95510",
+        "nom_commune": "Aincourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.77626001835",
+        "latitude": "49.0718002319"
+      },
+      "site": "http://www.aincourt.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b01da037-e547-48a7-a1f2-a346d5e63f14"
+    },
+    "france_services": null
+  },
+  "95011": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95011",
+      "nom": "Mairie - Ambleville",
+      "telephone": "01 34 67 71 01",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95710",
+        "nom_commune": "Ambleville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.685670",
+        "latitude": "49.148498"
+      },
+      "site": "https://www.ambleville95.com/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/2eb6a393-8850-44f3-9fec-bae11796dcc0"
+    },
+    "france_services": null
+  },
+  "95012": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95012",
+      "nom": "Mairie - Amenucourt",
+      "telephone": "01 34 79 70 02",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 route Saint-Léger",
+        "service_distribution": "",
+        "code_postal": "95510",
+        "nom_commune": "Amenucourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.6418891",
+        "latitude": "49.1063158"
+      },
+      "site": "https://mairie-amenucourt.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/26c25932-af5b-4126-b70a-c4496ecea51c"
+    },
+    "france_services": null
+  },
+  "95014": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95014",
+      "nom": "Mairie - Andilly",
+      "telephone": "01 34 16 46 36",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Hôtel de Ville",
+        "complement2": "",
+        "numero_voie": "1 rue René-Cassin",
+        "service_distribution": "",
+        "code_postal": "95580",
+        "nom_commune": "Andilly",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.3001855",
+        "latitude": "49.0054772"
+      },
+      "site": "https://www.ville-andilly-95.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/51ef36cf-075c-41b2-afec-58b7199879cb"
+    },
+    "france_services": null
+  },
+  "95018": {
+    "services_count": 31,
+    "mairie": {
+      "code": "95018",
+      "nom": "Mairie - Argenteuil",
+      "telephone": "01 34 23 41 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "12-14 boulevard Léon-Feix",
+        "service_distribution": "",
+        "code_postal": "95100",
+        "nom_commune": "Argenteuil",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.249245",
+        "latitude": "48.94691"
+      },
+      "site": "https://www.argenteuil.fr/fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5e27d725-abf2-4cc1-85fb-c7da1f2999c0"
+    },
+    "france_services": {
+      "code": "95018",
+      "nom": "France services - Orgemont Volembert - Site d'Argenteuil Maison de quartier centre-ville Gabriel Péri (multisites)",
+      "telephone": "01 34 23 68 40",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "7 rue des Gobelins",
+        "service_distribution": "",
+        "code_postal": "95100",
+        "nom_commune": "Argenteuil",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.251741",
+        "latitude": "48.942619"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/1aad97c8-44f8-4d59-b7fa-23ef4365524b"
+    }
+  },
+  "95019": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95019",
+      "nom": "Mairie - Arnouville",
+      "telephone": "01 30 11 16 16",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "15-17 rue Robert-Schuman",
+        "service_distribution": "CS 20101",
+        "code_postal": "95400",
+        "nom_commune": "Arnouville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.4202668",
+        "latitude": "48.9896288"
+      },
+      "site": "https://arnouville95.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/36d78a20-3e71-483e-a07c-9a57593e3b2d"
+    },
+    "france_services": null
+  },
+  "95023": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95023",
+      "nom": "Mairie - Arronville",
+      "telephone": "01 34 66 51 63",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "12 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95810",
+        "nom_commune": "Arronville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.10873007774",
+        "latitude": "49.1861000061"
+      },
+      "site": "http://www.arronville.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/70cc346f-1a52-4e36-b9cf-567470ceccc4"
+    },
+    "france_services": null
+  },
+  "95024": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95024",
+      "nom": "Mairie - Arthies",
+      "telephone": "01 34 67 22 26",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Arthies",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.788083",
+        "latitude": "49.094567"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/8a0feb99-660b-4606-b520-e82c0e169d5f"
+    },
+    "france_services": null
+  },
+  "95026": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95026",
+      "nom": "Mairie - Asnières-sur-Oise",
+      "telephone": "01 30 35 41 41",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "20 rue d'Aval-Eau",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Asnières-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.355899",
+        "latitude": "49.133238"
+      },
+      "site": "https://ville-asnieres-sur-oise.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/fcf0898f-d8bb-4350-968a-c58c1eb2a805"
+    },
+    "france_services": null
+  },
+  "95028": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95028",
+      "nom": "Mairie - Attainville",
+      "telephone": "01 39 91 05 36",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 rue Daniel-Renault",
+        "service_distribution": "",
+        "code_postal": "95570",
+        "nom_commune": "Attainville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.34557008743",
+        "latitude": "49.0572013855"
+      },
+      "site": "https://attainville.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/4a7fdcc6-e419-4063-8205-10cd16c698dd"
+    },
+    "france_services": null
+  },
+  "95039": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95039",
+      "nom": "Mairie - Auvers-sur-Oise",
+      "telephone": "01 30 36 70 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "17 rue du Général-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95430",
+        "nom_commune": "Auvers-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.171149",
+        "latitude": "49.070586"
+      },
+      "site": "http://www.ville-auverssuroise.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d8f60a04-07d1-4c93-8e02-346fa5452b64"
+    },
+    "france_services": null
+  },
+  "95040": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95040",
+      "nom": "Mairie - Avernes",
+      "telephone": "01 30 39 20 13",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "39 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Avernes",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.87284004688",
+        "latitude": "49.0867996216"
+      },
+      "site": "http://www.avernes95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c23327b7-7798-43a7-9316-569727c7e278"
+    },
+    "france_services": null
+  },
+  "95042": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95042",
+      "nom": "Mairie - Baillet-en-France",
+      "telephone": "01 34 69 82 64",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 rue Jean-Nicolas",
+        "service_distribution": "",
+        "code_postal": "95560",
+        "nom_commune": "Baillet-en-France",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.2991561",
+        "latitude": "49.0628845"
+      },
+      "site": "http://www.bailletenfrance.jimdo.com",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/36206d4b-2326-4d78-bb4b-5fc528943d1e"
+    },
+    "france_services": null
+  },
+  "95046": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95046",
+      "nom": "Mairie - Banthelu",
+      "telephone": "01 34 67 46 92",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Banthelu",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.814292",
+        "latitude": "49.126009"
+      },
+      "site": "https://www.banthelu.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/76e9b9d6-708d-4026-b0d8-9c5c7fb03004"
+    },
+    "france_services": null
+  },
+  "95051": {
+    "services_count": 7,
+    "mairie": {
+      "code": "95051",
+      "nom": "Mairie - Beauchamp",
+      "telephone": "01 30 40 45 45",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 place Camille-Fouinat",
+        "service_distribution": "",
+        "code_postal": "95250",
+        "nom_commune": "Beauchamp",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.199008",
+        "latitude": "49.011280"
+      },
+      "site": "https://www.ville-beauchamp.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/3e9d6704-8542-4ff2-8b5d-39d94f859d83"
+    },
+    "france_services": null
+  },
+  "95052": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95052",
+      "nom": "Mairie - Beaumont-sur-Oise",
+      "telephone": "01 30 28 79 79",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "29 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95260",
+        "nom_commune": "Beaumont-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.284329",
+        "latitude": "49.141678"
+      },
+      "site": "https://www.beaumontsuroise.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/2a3cb556-8961-450b-9b94-395f95453bb0"
+    },
+    "france_services": null
+  },
+  "95054": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95054",
+      "nom": "Mairie - Le Bellay-en-Vexin",
+      "telephone": "01 34 67 42 75",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 Grande-Rue prolongée",
+        "service_distribution": "",
+        "code_postal": "95750",
+        "nom_commune": "Le Bellay-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.883265",
+        "latitude": "49.154472"
+      },
+      "site": "https://lebellayenvexin.com",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/f65c0f27-c5bd-4c3f-a079-9a84462a91d7"
+    },
+    "france_services": null
+  },
+  "95055": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95055",
+      "nom": "Mairie - Bellefontaine",
+      "telephone": "01 34 71 01 76",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 rue des Sablons",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Bellefontaine",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.46606993675",
+        "latitude": "49.0978012085"
+      },
+      "site": "http://www.bellefontaine.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/9492daac-0ea2-4b97-bab5-197e2f232767"
+    },
+    "france_services": null
+  },
+  "95056": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95056",
+      "nom": "Mairie - Belloy-en-France",
+      "telephone": "01 30 35 70 14",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 place Alphonse-Sainte-Beuve",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Belloy-en-France",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.36787009239",
+        "latitude": "49.0894012451"
+      },
+      "site": "https://belloy-en-france.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ceba0df7-70fa-49e1-9e9f-f50870203b36"
+    },
+    "france_services": null
+  },
+  "95058": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95058",
+      "nom": "Mairie - Bernes-sur-Oise",
+      "telephone": "01 34 70 03 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "7 bis place de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95340",
+        "nom_commune": "Bernes-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.30096006393",
+        "latitude": "49.1604003906"
+      },
+      "site": "http://www.bernes-sur-oise.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/07ee0672-d96f-4774-9072-7503603ca1e6"
+    },
+    "france_services": null
+  },
+  "95059": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95059",
+      "nom": "Mairie - Berville",
+      "telephone": "01 34 66 52 63",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "20 rue de Heurcourt",
+        "service_distribution": "",
+        "code_postal": "95810",
+        "nom_commune": "Berville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.06347990036",
+        "latitude": "49.1926002502"
+      },
+      "site": "http://www.berville95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b70e6155-d6dc-44d0-93c9-317b25f0ffb1"
+    },
+    "france_services": null
+  },
+  "95060": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95060",
+      "nom": "Mairie - Bessancourt",
+      "telephone": "01 30 40 44 44",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place du 30-Août",
+        "service_distribution": "",
+        "code_postal": "95550",
+        "nom_commune": "Bessancourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.21688008308",
+        "latitude": "49.0385017395"
+      },
+      "site": "https://www.ville-bessancourt.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ed1482a5-90e3-41f2-8e14-50826a4ba4b3"
+    },
+    "france_services": null
+  },
+  "95061": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95061",
+      "nom": "Mairie - Béthemont-la-Forêt",
+      "telephone": "01 34 69 27 01",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de Montubois",
+        "service_distribution": "",
+        "code_postal": "95840",
+        "nom_commune": "Béthemont-la-Forêt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.25101995468",
+        "latitude": "49.0527992249"
+      },
+      "site": "https://fremecourt.fr/index.php",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/db98821b-0546-42e0-8e5b-0ee52d2dac5a"
+    },
+    "france_services": null
+  },
+  "95063": {
+    "services_count": 8,
+    "mairie": {
+      "code": "95063",
+      "nom": "Mairie - Bezons",
+      "telephone": "01 79 87 62 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "6 avenue Gabriel-Péri",
+        "service_distribution": "",
+        "code_postal": "95875",
+        "nom_commune": "Bezons",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.2155708",
+        "latitude": "48.9279333"
+      },
+      "site": "https://www.ville-bezons.fr/a-la-une/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/9eb6008b-eac3-43bc-b7d4-317cbaadda96"
+    },
+    "france_services": {
+      "code": "95063",
+      "nom": "France services - Bezons",
+      "telephone": "01 79 87 64 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Résidence Christophe Colomb",
+        "complement2": "",
+        "numero_voie": "156 rue Édouard Vaillant",
+        "service_distribution": "",
+        "code_postal": "95870",
+        "nom_commune": "Bezons",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.208124",
+        "latitude": "48.923875"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/6102a858-4296-439c-b7e6-cdeb55778408"
+    }
+  },
+  "95074": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95074",
+      "nom": "Mairie - Boisemont",
+      "telephone": "01 34 42 34 98",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de l'Église",
+        "service_distribution": "",
+        "code_postal": "95000",
+        "nom_commune": "Boisemont",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.00133991241",
+        "latitude": "49.021900177"
+      },
+      "site": "https://ville-boisemont.fr/la-mairie",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ef11eefa-00c3-43a9-886f-5b5445dba313"
+    },
+    "france_services": null
+  },
+  "95078": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95078",
+      "nom": "Mairie - Boissy-l'Aillerie",
+      "telephone": "01 34 42 10 05",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "9 rue de la République",
+        "service_distribution": "",
+        "code_postal": "95650",
+        "nom_commune": "Boissy-l'Aillerie",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.0303800106",
+        "latitude": "49.0774993896"
+      },
+      "site": "https://www.mairie-boissylaillerie.com/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/e97f23dc-f900-4707-a866-3db801bdbcf0"
+    },
+    "france_services": null
+  },
+  "95088": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95088",
+      "nom": "Mairie - Bonneuil-en-France",
+      "telephone": "01 39 86 30 40",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "15 rue de Gonesse",
+        "service_distribution": "",
+        "code_postal": "95500",
+        "nom_commune": "Bonneuil-en-France",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.43374991417",
+        "latitude": "48.976600647"
+      },
+      "site": "http://www.bonneuil-en-france.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/76c2115a-4ec2-4773-94e7-ed4909e59bbb"
+    },
+    "france_services": null
+  },
+  "95091": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95091",
+      "nom": "Mairie - Bouffémont",
+      "telephone": "01 39 35 43 83",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "45 rue de la République",
+        "service_distribution": "",
+        "code_postal": "95570",
+        "nom_commune": "Bouffémont",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.299298",
+        "latitude": "49.043034"
+      },
+      "site": "https://ville-bouffemont.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/6d8f431a-6ef7-4780-99ab-267c61e18d76"
+    },
+    "france_services": null
+  },
+  "95094": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95094",
+      "nom": "Mairie - Bouqueval",
+      "telephone": "01 39 92 84 98",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Eugène-Süe",
+        "service_distribution": "",
+        "code_postal": "95720",
+        "nom_commune": "Bouqueval",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.42445993423",
+        "latitude": "49.0245018005"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/52ab8a8a-a761-45f5-965e-420d9dc05964"
+    },
+    "france_services": null
+  },
+  "95101": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95101",
+      "nom": "Mairie - Bray-et-Lû",
+      "telephone": "01 34 67 72 19",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de l'École",
+        "service_distribution": "",
+        "code_postal": "95710",
+        "nom_commune": "Bray-et-Lû",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.66390001774",
+        "latitude": "49.138999939"
+      },
+      "site": "https://brayetlu.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d9f6a75c-0ac3-4b01-b2af-95deb9bc78d9"
+    },
+    "france_services": null
+  },
+  "95102": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95102",
+      "nom": "Mairie - Bréançon",
+      "telephone": "01 34 66 60 04",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "4 rue du Moulin",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Bréançon",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.020963",
+        "latitude": "49.141988"
+      },
+      "site": "https://breancon.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c665ae08-35be-44fc-bc85-f63f84fc22df"
+    },
+    "france_services": null
+  },
+  "95110": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95110",
+      "nom": "Mairie - Brignancourt",
+      "telephone": "01 30 39 84 97",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "16 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Brignancourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.94421005249",
+        "latitude": "49.1376991272"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/1f099887-d46a-4dfe-8247-241dec0c4a95"
+    },
+    "france_services": null
+  },
+  "95116": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95116",
+      "nom": "Mairie - Bruyères-sur-Oise",
+      "telephone": "01 30 28 76 50",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "6 rue de la Mairie",
+        "service_distribution": "BP 80029",
+        "code_postal": "95820",
+        "nom_commune": "Bruyères-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.331063",
+        "latitude": "49.157651"
+      },
+      "site": "https://www.bruyeres-sur-oise.com/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/27b396e0-2b6f-4a94-9d54-e4e1be7b8800"
+    },
+    "france_services": {
+      "code": "95116",
+      "nom": "France services - Bruyères-sur-Oise",
+      "telephone": "01 30 28 76 64",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "6 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95820",
+        "nom_commune": "Bruyères-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.330213",
+        "latitude": "49.157555"
+      },
+      "site": "https://www.france-services.gouv.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/914bbcd2-04a3-4b12-901e-93c374925f2d"
+    }
+  },
+  "95119": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95119",
+      "nom": "Mairie - Buhy",
+      "telephone": "01 34 67 60 95",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 rue des Écoles",
+        "service_distribution": "",
+        "code_postal": "95770",
+        "nom_commune": "Buhy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.69258999825",
+        "latitude": "49.1931991577"
+      },
+      "site": "http://www.buhy.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/3e73ca85-8aed-4595-9112-e23a8af2faff"
+    },
+    "france_services": null
+  },
+  "95120": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95120",
+      "nom": "Mairie - Butry-sur-Oise",
+      "telephone": "01 34 08 95 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Pierre-Blanchard",
+        "service_distribution": "",
+        "code_postal": "95430",
+        "nom_commune": "Butry-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.195376",
+        "latitude": "49.085028"
+      },
+      "site": "http://www.butry.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b05f684e-d6d1-41ae-8125-843bc27e248d"
+    },
+    "france_services": null
+  },
+  "95127": {
+    "services_count": 79,
+    "mairie": {
+      "code": "95127",
+      "nom": "Mairie - Cergy",
+      "telephone": "01 34 33 44 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 place de l'Olympe-de-Gouges",
+        "service_distribution": "",
+        "code_postal": "95800",
+        "nom_commune": "Cergy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.036392",
+        "latitude": "49.052156"
+      },
+      "site": "https://www.cergy.fr/accueil/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7004a2b2-d3fd-4e78-a00f-b0c80920cfd1"
+    },
+    "france_services": {
+      "code": "95127",
+      "nom": "France services - Cergy (itinérant)",
+      "telephone": "01 34 25 30 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Bus France Services Départemental Val d'Oise",
+        "complement2": "",
+        "numero_voie": "2 avenue du Parc",
+        "service_distribution": "",
+        "code_postal": "95000",
+        "nom_commune": "Cergy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.07266",
+        "latitude": "49.033465"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/1495abf5-ad2b-4874-ba33-044e7ca85456"
+    }
+  },
+  "95134": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95134",
+      "nom": "Mairie - Champagne-sur-Oise",
+      "telephone": "01 30 28 77 77",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "8 bis place du Général-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95660",
+        "nom_commune": "Champagne-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.23104000092",
+        "latitude": "49.1339988708"
+      },
+      "site": "http://www.champagne95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/78b49139-3bae-4d99-85f6-a5671e731242"
+    },
+    "france_services": null
+  },
+  "95139": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95139",
+      "nom": "Mairie - La Chapelle-en-Vexin",
+      "telephone": "01 34 67 07 17",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de Ducourt",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "La Chapelle-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.73153996468",
+        "latitude": "49.1819992065"
+      },
+      "site": "http://www.mairie-la-chapelle-en-vexin.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/725b465d-44d5-4319-80ce-e48dc856a3f9"
+    },
+    "france_services": null
+  },
+  "95141": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95141",
+      "nom": "Mairie - Charmont",
+      "telephone": "01 61 02 09 51",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "4 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Charmont",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.790654",
+        "latitude": "49.137252"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/98cea978-2e2f-49f7-b21f-41c924315893"
+    },
+    "france_services": null
+  },
+  "95142": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95142",
+      "nom": "Mairie - Chars",
+      "telephone": "01 30 39 72 36",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 rue de Gisors",
+        "service_distribution": "",
+        "code_postal": "95750",
+        "nom_commune": "Chars",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.93335998058",
+        "latitude": "49.1608009338"
+      },
+      "site": "http://www.mairiechars95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0d95b18a-5c0c-4ca8-97e7-fe608d890dc3"
+    },
+    "france_services": null
+  },
+  "95144": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95144",
+      "nom": "Mairie - Châtenay-en-France",
+      "telephone": "01 34 71 19 93",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 rue de l'Église",
+        "service_distribution": "",
+        "code_postal": "95190",
+        "nom_commune": "Châtenay-en-France",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.45743989944",
+        "latitude": "49.0666999817"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/6258bc66-5d01-449b-b13f-1409f29e647e"
+    },
+    "france_services": null
+  },
+  "95149": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95149",
+      "nom": "Mairie - Chaumontel",
+      "telephone": "01 34 71 03 96",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "20 rue André-Vassord",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Chaumontel",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.431666",
+        "latitude": "49.122753"
+      },
+      "site": "https://ville-chaumontel.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/917e8480-04ff-4ccf-904c-b133713b1e24"
+    },
+    "france_services": null
+  },
+  "95150": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95150",
+      "nom": "Mairie - Chaussy",
+      "telephone": "01 34 67 70 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Charles-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95710",
+        "nom_commune": "Chaussy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.69380998611",
+        "latitude": "49.1213989258"
+      },
+      "site": "http://www.chaussy95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/1120e367-9512-41b2-9823-ea4b1bae478d"
+    },
+    "france_services": null
+  },
+  "95151": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95151",
+      "nom": "Mairie - Chauvry",
+      "telephone": "01 34 69 26 09",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Grande rue",
+        "service_distribution": "",
+        "code_postal": "95560",
+        "nom_commune": "Chauvry",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.266477",
+        "latitude": "49.05447"
+      },
+      "site": "https://chauvry.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/925fe371-90ec-454d-9edd-df4435e13b86"
+    },
+    "france_services": null
+  },
+  "95154": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95154",
+      "nom": "Mairie - Chennevières-lès-Louvres",
+      "telephone": "01 34 68 14 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 place de l'Église",
+        "service_distribution": "",
+        "code_postal": "95380",
+        "nom_commune": "Chennevières-lès-Louvres",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.551199",
+        "latitude": "49.044919"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/2a92e121-1ac0-42bb-b43a-9fdac84287f1"
+    },
+    "france_services": null
+  },
+  "95157": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95157",
+      "nom": "Mairie - Chérence",
+      "telephone": "01 34 78 15 08",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "8 rue de l'Église",
+        "service_distribution": "",
+        "code_postal": "95510",
+        "nom_commune": "Chérence",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.677241",
+        "latitude": "49.08774"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c50862e1-95fb-4cd3-871a-2bcbddaefe58"
+    },
+    "france_services": null
+  },
+  "95166": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95166",
+      "nom": "Mairie - Cléry-en-Vexin",
+      "telephone": "01 34 67 42 38",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "4 rue de la Fontaine-d'Ascot",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Cléry-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.842351",
+        "latitude": "49.127504"
+      },
+      "site": "https://clery-en-vexin.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7596780f-b167-4626-9e4a-18968c43518c"
+    },
+    "france_services": null
+  },
+  "95169": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95169",
+      "nom": "Mairie - Commeny",
+      "telephone": "01 34 67 40 05",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "39 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Commeny",
+        "pays": "",
+        "continent": "",
+        "longitude": "1.890404",
+        "latitude": "49.126974"
+      },
+      "site": "https://commeny95.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/823e77e3-f5dd-4def-8260-b1f81e97b8fb"
+    },
+    "france_services": null
+  },
+  "95170": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95170",
+      "nom": "Mairie - Condécourt",
+      "telephone": "01 34 66 31 75",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "37 rue de la Libération",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Condécourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.941237",
+        "latitude": "49.039883"
+      },
+      "site": "https://condecourt.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/9ffda25c-2d66-43aa-ae6f-b2840d226823"
+    },
+    "france_services": null
+  },
+  "95176": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95176",
+      "nom": "Mairie - Cormeilles-en-Parisis",
+      "telephone": "01 34 50 47 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 avenue Maurice-Berteaux",
+        "service_distribution": "",
+        "code_postal": "95240",
+        "nom_commune": "Cormeilles-en-Parisis",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.200330019",
+        "latitude": "48.976398468"
+      },
+      "site": "http://www.ville-cormeilles95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/24357758-b556-4837-8218-98dd2dc33fa8"
+    },
+    "france_services": null
+  },
+  "95177": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95177",
+      "nom": "Mairie - Cormeilles-en-Vexin",
+      "telephone": "01 34 66 61 19",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "49 rue Curie",
+        "service_distribution": "",
+        "code_postal": "95830",
+        "nom_commune": "Cormeilles-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.021047",
+        "latitude": "49.115678"
+      },
+      "site": "https://cormeilles-en-vexin.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/797b5f3d-b910-4d8c-88ea-99161b28168e"
+    },
+    "france_services": null
+  },
+  "95181": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95181",
+      "nom": "Mairie - Courcelles-sur-Viosne",
+      "telephone": "01 34 42 71 01",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "14 rue de la Libération",
+        "service_distribution": "",
+        "code_postal": "95650",
+        "nom_commune": "Courcelles-sur-Viosne",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.003672",
+        "latitude": "49.07718"
+      },
+      "site": "http://www.courcelles-sur-viosne.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ff845de2-7283-47b8-8b49-3b06dad40a43"
+    },
+    "france_services": null
+  },
+  "95183": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95183",
+      "nom": "Mairie - Courdimanche",
+      "telephone": "01 34 46 72 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue Vieille-Saint-Martin",
+        "service_distribution": "",
+        "code_postal": "95800",
+        "nom_commune": "Courdimanche",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.00476002693",
+        "latitude": "49.0379981995"
+      },
+      "site": "https://ville-courdimanche.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/997b040d-9608-4002-a37e-8a8e19352817"
+    },
+    "france_services": null
+  },
+  "95197": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95197",
+      "nom": "Mairie - Deuil-la-Barre",
+      "telephone": "01 34 28 65 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "36 rue Charles-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95170",
+        "nom_commune": "Deuil-la-Barre",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.328438",
+        "latitude": "48.975381"
+      },
+      "site": "http://www.mairie-deuillabarre.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/42047bde-8b69-4ae9-9efd-64fb518de5b3"
+    },
+    "france_services": null
+  },
+  "95199": {
+    "services_count": 7,
+    "mairie": {
+      "code": "95199",
+      "nom": "Mairie - Domont",
+      "telephone": "01 39 35 55 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "47 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95330",
+        "nom_commune": "Domont",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.327201",
+        "latitude": "49.027843"
+      },
+      "site": "https://www.ville-domont.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/9082b76c-8f38-4280-b8f9-2bb0e644c2fc"
+    },
+    "france_services": {
+      "code": "95199",
+      "nom": "France services - Domont",
+      "telephone": "01 39 35 55 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "CCAS de Domont",
+        "complement2": "",
+        "numero_voie": "18 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95330",
+        "nom_commune": "Domont",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.326685",
+        "latitude": "49.026338"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/4335c99f-75b5-4a31-93fa-764a27e0d8b9"
+    }
+  },
+  "95203": {
+    "services_count": 7,
+    "mairie": {
+      "code": "95203",
+      "nom": "Mairie - Eaubonne",
+      "telephone": "01 34 27 26 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 rue d'Enghien",
+        "service_distribution": "",
+        "code_postal": "95600",
+        "nom_commune": "Eaubonne",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.2791030407",
+        "latitude": "48.9911117554"
+      },
+      "site": "https://www.eaubonne.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/191abfc4-de45-4f79-9707-ea6e867103fd"
+    },
+    "france_services": null
+  },
+  "95205": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95205",
+      "nom": "Mairie - Écouen",
+      "telephone": "01 39 33 09 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95440",
+        "nom_commune": "Écouen",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.378879",
+        "latitude": "49.018313"
+      },
+      "site": "https://www.ecouen.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/e1caf75c-01be-46e6-b7c2-d3c59c0109bf"
+    },
+    "france_services": null
+  },
+  "95210": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95210",
+      "nom": "Mairie - Enghien-les-Bains",
+      "telephone": "01 34 28 45 45",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "57 rue du Général-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95880",
+        "nom_commune": "Enghien-les-Bains",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.305081",
+        "latitude": "48.969174"
+      },
+      "site": "https://www.enghienlesbains.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c6d418c6-9238-4ef2-a21c-3c608c727f06"
+    },
+    "france_services": null
+  },
+  "95211": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95211",
+      "nom": "Mairie - Ennery",
+      "telephone": "01 34 41 61 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue du Moutier",
+        "service_distribution": "",
+        "code_postal": "95300",
+        "nom_commune": "Ennery",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.10872006416",
+        "latitude": "49.0800018311"
+      },
+      "site": "http://www.ennery.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ee76b2ab-231a-44b4-817e-3011fe2c3e08"
+    },
+    "france_services": null
+  },
+  "95212": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95212",
+      "nom": "Mairie - Épiais-lès-Louvres",
+      "telephone": "01 34 68 14 60",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "8 rue du Manoir",
+        "service_distribution": "",
+        "code_postal": "95380",
+        "nom_commune": "Épiais-lès-Louvres",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.557015",
+        "latitude": "49.031801"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/8dbe8f9a-b07a-4c59-997f-ed0652961bbc"
+    },
+    "france_services": null
+  },
+  "95213": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95213",
+      "nom": "Mairie - Épiais-Rhus",
+      "telephone": "01 34 66 62 33",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "22 rue Saint-Didier",
+        "service_distribution": "",
+        "code_postal": "95810",
+        "nom_commune": "Épiais-Rhus",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.06427",
+        "latitude": "49.123386"
+      },
+      "site": "https://epiais-rhus.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/1e594e76-5694-4cc5-87ae-73d2b92e6525"
+    },
+    "france_services": null
+  },
+  "95214": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95214",
+      "nom": "Mairie - Épinay-Champlâtreux",
+      "telephone": "09 53 94 86 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "13 Ancienne route nationale 16",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Épinay-Champlâtreux",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.414001",
+        "latitude": "49.08507"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/56c39f78-72b8-4dc4-a4d3-6f4201aee67b"
+    },
+    "france_services": null
+  },
+  "95218": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95218",
+      "nom": "Mairie - Éragny‑sur‑Oise",
+      "telephone": "01 34 48 35 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Louis-Don-Marino",
+        "service_distribution": "CS 70021",
+        "code_postal": "95610",
+        "nom_commune": "Éragny-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.094985",
+        "latitude": "49.02458"
+      },
+      "site": "https://eragny.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7b1155d8-a2d8-4491-8b9a-a9d7d659f09d"
+    },
+    "france_services": null
+  },
+  "95219": {
+    "services_count": 15,
+    "mairie": {
+      "code": "95219",
+      "nom": "Mairie - Ermont",
+      "telephone": "09 70 80 93 47",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "100 rue Louis-Savoie",
+        "service_distribution": "",
+        "code_postal": "95120",
+        "nom_commune": "Ermont",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.258235",
+        "latitude": "48.991952"
+      },
+      "site": "https://www.ermont.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/05c6dc9e-ff22-4531-bf9a-0ae01336d65d"
+    },
+    "france_services": {
+      "code": "95219",
+      "nom": "France services - Ermont",
+      "telephone": "01 30 72 38 50",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Maison communale des solidarités Jacques Berthod",
+        "complement2": "",
+        "numero_voie": "100 rue Louis Savoie",
+        "service_distribution": "",
+        "code_postal": "95120",
+        "nom_commune": "Ermont",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.258788",
+        "latitude": "48.992012"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7b6fad24-a6a2-46ec-97ac-f353285f0c19"
+    }
+  },
+  "95229": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95229",
+      "nom": "Mairie - Ézanville",
+      "telephone": "01 39 35 44 80",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Jules-Rodet",
+        "service_distribution": "",
+        "code_postal": "95460",
+        "nom_commune": "Ézanville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.36178994179",
+        "latitude": "49.0312004089"
+      },
+      "site": "https://www.ezanville.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/20ab445a-b563-4c6a-bb0b-817eb88a2b18"
+    },
+    "france_services": null
+  },
+  "95241": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95241",
+      "nom": "Mairie - Fontenay-en-Parisis",
+      "telephone": "01 34 71 11 07",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 place Stalingrad",
+        "service_distribution": "",
+        "code_postal": "95190",
+        "nom_commune": "Fontenay-en-Parisis",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.4512152",
+        "latitude": "49.0538501"
+      },
+      "site": "https://www.fontenay-en-parisis.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/14a20c0d-01bd-424f-805e-ce02d8489ac0"
+    },
+    "france_services": null
+  },
+  "95250": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95250",
+      "nom": "Mairie - Fosses",
+      "telephone": "01 34 47 40 40",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 place du 19-Mars-1962",
+        "service_distribution": "",
+        "code_postal": "95470",
+        "nom_commune": "Fosses",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.515927",
+        "latitude": "49.098699"
+      },
+      "site": "https://ville-fosses95.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5b7a88d1-c577-4729-a8ad-178a3239caf2"
+    },
+    "france_services": null
+  },
+  "95252": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95252",
+      "nom": "Mairie - Franconville",
+      "telephone": "01 39 32 66 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "11 rue de la Station",
+        "service_distribution": "",
+        "code_postal": "95130",
+        "nom_commune": "Franconville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.230769",
+        "latitude": "48.985995"
+      },
+      "site": "https://www.ville-franconville.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/2baecf4b-4225-486f-8de5-66b397ab3c56"
+    },
+    "france_services": null
+  },
+  "95253": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95253",
+      "nom": "Mairie - Frémainville",
+      "telephone": "01 34 75 48 74",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 rue des Ormeteaux",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Frémainville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.867365",
+        "latitude": "49.065113"
+      },
+      "site": "http://www.fremainville.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/a4abaf83-9ad6-43ce-8434-490ee5c2ab44"
+    },
+    "france_services": null
+  },
+  "95254": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95254",
+      "nom": "Mairie - Frémécourt",
+      "telephone": "01 34 66 62 84",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue du Four",
+        "service_distribution": "",
+        "code_postal": "95830",
+        "nom_commune": "Frémécourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.00253009796",
+        "latitude": "49.1192016602"
+      },
+      "site": "https://fremecourt.fr/index.php",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/2a18f218-ef17-4c5e-a230-07e6231e7534"
+    },
+    "france_services": null
+  },
+  "95256": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95256",
+      "nom": "Mairie - Frépillon",
+      "telephone": "01 39 60 25 06",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95740",
+        "nom_commune": "Frépillon",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.205631",
+        "latitude": "49.050782"
+      },
+      "site": "https://www.frepillon.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b4a34778-f6e0-43d0-b222-f27c71f18a76"
+    },
+    "france_services": null
+  },
+  "95257": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95257",
+      "nom": "Mairie - La Frette-sur-Seine",
+      "telephone": "01 39 31 50 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "55 quai de Seine",
+        "service_distribution": "",
+        "code_postal": "95530",
+        "nom_commune": "La Frette-sur-Seine",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.17814993858",
+        "latitude": "48.9738998413"
+      },
+      "site": "https://lafrettesurseine.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/1afd5622-3be5-4cc0-86a2-53857b376dfb"
+    },
+    "france_services": null
+  },
+  "95258": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95258",
+      "nom": "Mairie - Frouville",
+      "telephone": "01 30 34 70 55",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 bis Grande rue",
+        "service_distribution": "",
+        "code_postal": "95690",
+        "nom_commune": "Frouville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.15110993385",
+        "latitude": "49.1473999023"
+      },
+      "site": "https://frouville95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b0487081-8801-4128-9abe-6d7b87d89008"
+    },
+    "france_services": null
+  },
+  "95268": {
+    "services_count": 11,
+    "mairie": {
+      "code": "95268",
+      "nom": "Mairie - Garges-lès-Gonesse",
+      "telephone": "01 34 53 32 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "8 place de l'Hôtel-de-Ville",
+        "service_distribution": "BP 2",
+        "code_postal": "95141",
+        "nom_commune": "Garges-lès-Gonesse Cedex",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.39990997314",
+        "latitude": "48.971698761"
+      },
+      "site": "https://www.villedegarges.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/bc2e3ef3-b2c4-42a5-b746-488e49671331"
+    },
+    "france_services": {
+      "code": "95268",
+      "nom": "France services - Garges-Sarcelles",
+      "telephone": "01 34 04 27 28",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Point d'information médiation multiservices de Garges-Sarcelles",
+        "complement2": "Gare SNCF",
+        "numero_voie": "2 avenue du Général-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95140",
+        "nom_commune": "Garges-lès-Gonesse",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.396725",
+        "latitude": "48.975839"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/db9c2921-199e-4ed8-b76c-4d31cc346f97"
+    }
+  },
+  "95270": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95270",
+      "nom": "Mairie - Genainville",
+      "telephone": "01 34 67 05 22",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place de l'Église",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Genainville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.75225996971",
+        "latitude": "49.1250991821"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ccbbd1a0-e795-48c0-b890-710deb3137c7"
+    },
+    "france_services": null
+  },
+  "95271": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95271",
+      "nom": "Mairie - Génicourt",
+      "telephone": "01 34 42 72 32",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "8 rue des Sablons",
+        "service_distribution": "",
+        "code_postal": "95650",
+        "nom_commune": "Génicourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.066006",
+        "latitude": "49.087382"
+      },
+      "site": "https://genicourt.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/94597121-a0e6-4cea-b432-28123454b81a"
+    },
+    "france_services": null
+  },
+  "95277": {
+    "services_count": 10,
+    "mairie": {
+      "code": "95277",
+      "nom": "Mairie - Gonesse",
+      "telephone": "01 34 45 11 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "66 rue de Paris",
+        "service_distribution": "BP 10060",
+        "code_postal": "95503",
+        "nom_commune": "Gonesse Cedex",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.449009",
+        "latitude": "48.986333"
+      },
+      "site": "https://www.ville-gonesse.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/6a1a57e0-11f4-4548-84cc-70760f8dcc47"
+    },
+    "france_services": null
+  },
+  "95280": {
+    "services_count": 8,
+    "mairie": {
+      "code": "95280",
+      "nom": "Mairie - Goussainville",
+      "telephone": "01 39 94 60 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 place de la Charmeuse",
+        "service_distribution": "",
+        "code_postal": "95190",
+        "nom_commune": "Goussainville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.473507",
+        "latitude": "49.032548"
+      },
+      "site": "https://www.ville-goussainville.fr/index.php",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/559a79a7-da48-485d-8569-a0e3c2a61830"
+    },
+    "france_services": {
+      "code": "95280",
+      "nom": "France services - Goussainville",
+      "telephone": "01 39 94 69 70",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "27 rue Robert Peltier",
+        "service_distribution": "",
+        "code_postal": "95190",
+        "nom_commune": "Goussainville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.460925",
+        "latitude": "49.035965"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5ba99c04-6d3e-407f-b704-ca9d2d0cb049"
+    }
+  },
+  "95287": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95287",
+      "nom": "Mairie - Grisy-les-Plâtres",
+      "telephone": "01 34 66 62 69",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 rue Robert-Machy",
+        "service_distribution": "",
+        "code_postal": "95810",
+        "nom_commune": "Grisy-les-Plâtres",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.050361",
+        "latitude": "49.130719"
+      },
+      "site": "https://www.grisylesplatres.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c6942a2a-3cee-4008-acde-d3ef04fac826"
+    },
+    "france_services": null
+  },
+  "95288": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95288",
+      "nom": "Mairie - Groslay",
+      "telephone": "01 34 28 68 68",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "21 rue du Général-Leclerc",
+        "service_distribution": "",
+        "code_postal": "95410",
+        "nom_commune": "Groslay",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.345742",
+        "latitude": "48.986645"
+      },
+      "site": "http://www.mairie-groslay.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/eb26987e-5081-4b69-bf8d-46ee555e869f"
+    },
+    "france_services": null
+  },
+  "95295": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95295",
+      "nom": "Mairie - Guiry-en-Vexin",
+      "telephone": "01 34 67 40 41",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "20 rue Saint-Nicolas",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Guiry-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.850043",
+        "latitude": "49.1088061"
+      },
+      "site": "https://guiry-en-vexin.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/8d1f119f-a851-498f-82ce-32fc4deb702e"
+    },
+    "france_services": null
+  },
+  "95298": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95298",
+      "nom": "Mairie - Haravilliers",
+      "telephone": "01 30 39 74 02",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "28 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Haravilliers",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.04624009132",
+        "latitude": "49.173500061"
+      },
+      "site": "https://haravilliers.com/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d41fe889-27d1-440c-b7f3-bb66ec66e4b1"
+    },
+    "france_services": null
+  },
+  "95301": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95301",
+      "nom": "Mairie - Haute-Isle",
+      "telephone": "01 34 79 73 24",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "146 route de la Vallée",
+        "service_distribution": "",
+        "code_postal": "95780",
+        "nom_commune": "Haute-Isle",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.658063",
+        "latitude": "49.083332"
+      },
+      "site": "http://www.hauteisle.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/afead7e3-6bf3-4a87-ab9d-382592e3a996"
+    },
+    "france_services": null
+  },
+  "95303": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95303",
+      "nom": "Mairie - Le Heaulme",
+      "telephone": "01 30 39 99 63",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "15 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Le Heaulme",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.97545003891",
+        "latitude": "49.1692008972"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/308bac6a-4866-4ed7-86d5-c16a67231aa7"
+    },
+    "france_services": null
+  },
+  "95304": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95304",
+      "nom": "Mairie - Hédouville",
+      "telephone": "01 34 70 62 39",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "39 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95690",
+        "nom_commune": "Hédouville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.171115",
+        "latitude": "49.154101"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b67f63d8-3450-4906-a6f7-98570a81517b"
+    },
+    "france_services": null
+  },
+  "95306": {
+    "services_count": 7,
+    "mairie": {
+      "code": "95306",
+      "nom": "Mairie - Herblay",
+      "telephone": "01 30 40 47 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "43 rue du Général-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95220",
+        "nom_commune": "Herblay",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.164962",
+        "latitude": "48.990108"
+      },
+      "site": "https://herblaysurseine.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/321ff305-f192-48a3-9879-f74325286679"
+    },
+    "france_services": null
+  },
+  "95308": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95308",
+      "nom": "Mairie - Hérouville-en-Vexin",
+      "telephone": "01 34 66 54 31",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 rue du Poteau",
+        "service_distribution": "",
+        "code_postal": "95300",
+        "nom_commune": "Hérouville-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.128767",
+        "latitude": "49.100706"
+      },
+      "site": "http://www.herouville-en-vexin.net",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/3e4170c2-17ca-4e85-97bb-5486cb486fef"
+    },
+    "france_services": null
+  },
+  "95309": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95309",
+      "nom": "Mairie - Hodent",
+      "telephone": "01 34 67 03 23",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Hodent",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.766854",
+        "latitude": "49.14407"
+      },
+      "site": "http://www.hodent.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0a6c4ad6-0b1c-401c-88e5-cfdd922e81b1"
+    },
+    "france_services": null
+  },
+  "95313": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95313",
+      "nom": "Mairie - L'Isle-Adam",
+      "telephone": "01 34 08 19 19",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "45 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95290",
+        "nom_commune": "L'Isle-Adam",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.21789908409",
+        "latitude": "49.1121292114"
+      },
+      "site": "https://ville-isle-adam.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/1cceacb6-3ba1-453b-a9fe-516b2e57c6ed"
+    },
+    "france_services": null
+  },
+  "95316": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95316",
+      "nom": "Mairie - Jagny-sous-Bois",
+      "telephone": "01 34 71 14 36",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "7 rue Chef-de-Ville",
+        "service_distribution": "",
+        "code_postal": "95850",
+        "nom_commune": "Jagny-sous-Bois",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.44320011139",
+        "latitude": "49.0782012939"
+      },
+      "site": "http://www.jagny-sous-bois.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/f5f5449e-36b2-4d6a-8b4f-b436dd224d98"
+    },
+    "france_services": null
+  },
+  "95323": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95323",
+      "nom": "Mairie - Jouy-le-Moutier",
+      "telephone": "01 34 41 65 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Hôtel de Ville",
+        "complement2": "Jouy-le-Moutier",
+        "numero_voie": "56 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95000",
+        "nom_commune": "Cergy-Pontoise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.047585",
+        "latitude": "49.015752"
+      },
+      "site": "https://www.jouylemoutier.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/86d3c512-5469-4fcd-bf72-a98d705d9bd9"
+    },
+    "france_services": null
+  },
+  "95328": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95328",
+      "nom": "Mairie - Labbeville",
+      "telephone": "01 34 70 60 15",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 Grande-Rue",
+        "service_distribution": "",
+        "code_postal": "95690",
+        "nom_commune": "Labbeville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.144729",
+        "latitude": "49.136487"
+      },
+      "site": "https://labbeville.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5161f997-22a9-4071-8379-559879f8deba"
+    },
+    "france_services": null
+  },
+  "95331": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95331",
+      "nom": "Mairie - Lassy",
+      "telephone": "01 34 71 05 82",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Grande rue",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Lassy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.44431996346",
+        "latitude": "49.0962982178"
+      },
+      "site": "https://lassy95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d84d212f-c26f-4de3-be09-97bdf104b090"
+    },
+    "france_services": null
+  },
+  "95341": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95341",
+      "nom": "Mairie - Livilliers",
+      "telephone": "01 34 42 72 04",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 rue de la Chaise",
+        "service_distribution": "",
+        "code_postal": "95300",
+        "nom_commune": "Livilliers",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.0949537",
+        "latitude": "49.095392"
+      },
+      "site": "https://livilliers.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/3cb7a4a9-236e-4530-a606-4027297d2b7b"
+    },
+    "france_services": null
+  },
+  "95348": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95348",
+      "nom": "Mairie - Longuesse",
+      "telephone": "01 30 39 23 45",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "14 Grande-Rue",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Longuesse",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.926149",
+        "latitude": "49.062112"
+      },
+      "site": "https://mairie-longuesse.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/686ee24a-c0a5-4e3d-99a0-851899f76519"
+    },
+    "france_services": null
+  },
+  "95351": {
+    "services_count": 10,
+    "mairie": {
+      "code": "95351",
+      "nom": "Mairie - Louvres",
+      "telephone": "01 34 47 34 34",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "84 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95380",
+        "nom_commune": "Louvres",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.509429",
+        "latitude": "49.045179"
+      },
+      "site": "https://www.ville-louvres.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5bb1c235-da1c-416f-a01c-f222e285bd58"
+    },
+    "france_services": {
+      "code": "95351",
+      "nom": "France services - Louvres",
+      "telephone": "01 34 31 31 35",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "CCAS",
+        "complement2": "",
+        "numero_voie": "84 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95380",
+        "nom_commune": "Louvres",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.510310",
+        "latitude": "49.044752"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/73adf051-745f-4dc6-be62-5769d31e373f"
+    }
+  },
+  "95352": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95352",
+      "nom": "Mairie - Luzarches",
+      "telephone": "01 30 29 54 54",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Luzarches",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.42248988152",
+        "latitude": "49.1124992371"
+      },
+      "site": "https://luzarches.net/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b2147d94-9509-4bc6-9510-ee66621b6159"
+    },
+    "france_services": {
+      "code": "95352",
+      "nom": "France services - Luzarches (itinérant)",
+      "telephone": "06 43 60 03 32",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Bus France Services CIAS de la Cté de communes Carnelle",
+        "complement2": "",
+        "numero_voie": "15 rue Bonnet",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Luzarches",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.424204",
+        "latitude": "49.113275"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/92268182-1c9f-45de-8ec4-fbd638a6fa27"
+    }
+  },
+  "95353": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95353",
+      "nom": "Mairie - Maffliers",
+      "telephone": "01 34 69 80 68",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 rue de Richebourg",
+        "service_distribution": "",
+        "code_postal": "95560",
+        "nom_commune": "Maffliers",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.3085762",
+        "latitude": "49.0756921"
+      },
+      "site": "https://sites.google.com/site/communedemaffliers/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/fbda0a20-8251-421c-be1c-ffa3242d7b28"
+    },
+    "france_services": null
+  },
+  "95355": {
+    "services_count": 7,
+    "mairie": {
+      "code": "95355",
+      "nom": "Mairie - Magny-en-Vexin",
+      "telephone": "01 34 67 03 28",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "20 rue de Crosne",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Magny-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.78753995895",
+        "latitude": "49.1514015198"
+      },
+      "site": "http://www.magny-en-vexin.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c6f6e63b-28e3-454a-b5e5-a9a1a692f012"
+    },
+    "france_services": {
+      "code": "95355",
+      "nom": "France services - Magny-en-Vexin",
+      "telephone": "01 82 31 20 94",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "12 rue des Frères Montgolfier",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Magny-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.782485",
+        "latitude": "49.146485"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d2e968ae-58d9-4db3-acae-47ddf823cca9"
+    }
+  },
+  "95365": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95365",
+      "nom": "Mairie - Mareil-en-France",
+      "telephone": "01 34 71 10 61",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 rue Montguichet",
+        "service_distribution": "",
+        "code_postal": "95850",
+        "nom_commune": "Mareil-en-France",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.427485",
+        "latitude": "49.069716"
+      },
+      "site": "http://www.mareil-en-france.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/24c96962-c0f3-49a3-bab4-55b87fab1a11"
+    },
+    "france_services": null
+  },
+  "95369": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95369",
+      "nom": "Mairie - Margency",
+      "telephone": "01 34 27 40 40",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 avenue Georges-Pompidou",
+        "service_distribution": "",
+        "code_postal": "95580",
+        "nom_commune": "Margency",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.2896194458",
+        "latitude": "49.0040961836"
+      },
+      "site": "http://www.mairie-margency.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/f97e4f1e-6553-41dd-9cb9-e1f12746a6a5"
+    },
+    "france_services": null
+  },
+  "95370": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95370",
+      "nom": "Mairie - Marines",
+      "telephone": "01 30 39 70 21",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place du Maréchal-Leclerc",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Marines",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.982606",
+        "latitude": "49.145141"
+      },
+      "site": "https://www.marines.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/959c1917-6286-4909-9110-f7181fa0be8f"
+    },
+    "france_services": {
+      "code": "95370",
+      "nom": "France services - Marines",
+      "telephone": "01 30 39 70 21",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Mairie",
+        "complement2": "",
+        "numero_voie": "4 place du Marechal-Leclerc",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Marines",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.98249",
+        "latitude": "49.14529"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ab2d767f-8e98-450c-bfdc-dc1371ef4b67"
+    }
+  },
+  "95371": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95371",
+      "nom": "Mairie - Marly-la-Ville",
+      "telephone": "01 34 47 46 46",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 rue du Colonel-Fabien",
+        "service_distribution": "",
+        "code_postal": "95670",
+        "nom_commune": "Marly-la-Ville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.49915003777",
+        "latitude": "49.0800018311"
+      },
+      "site": "http://www.marly-la-ville.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/59d4ab95-683c-4af1-bb39-f7078607f894"
+    },
+    "france_services": null
+  },
+  "95379": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95379",
+      "nom": "Mairie - Maudétour-en-Vexin",
+      "telephone": "01 34 67 11 67",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Allée des Tilleuls",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Maudétour-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.77748000622",
+        "latitude": "49.0997009277"
+      },
+      "site": "http://www.maudetour-en-vexin.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/9840ab90-c53a-44d9-84a3-71f8f8997119"
+    },
+    "france_services": null
+  },
+  "95387": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95387",
+      "nom": "Mairie - Menouville",
+      "telephone": "01 34 66 53 82",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 rue du Pressoir",
+        "service_distribution": "",
+        "code_postal": "95810",
+        "nom_commune": "Menouville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.1100535310012813",
+        "latitude": "49.14938178657043"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/04f99b09-2c20-4891-862e-1f73f7c6d588"
+    },
+    "france_services": null
+  },
+  "95388": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95388",
+      "nom": "Mairie - Menucourt",
+      "telephone": "01 34 46 71 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue Pasteur",
+        "service_distribution": "",
+        "code_postal": "95180",
+        "nom_commune": "Menucourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.98377001286",
+        "latitude": "49.0245018005"
+      },
+      "site": "http://www.menucourt.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/9756182e-d070-4d84-8db2-71b11dc33cce"
+    },
+    "france_services": null
+  },
+  "95392": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95392",
+      "nom": "Mairie - Mériel",
+      "telephone": "01 34 48 21 50",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "62 Grande-Rue",
+        "service_distribution": "",
+        "code_postal": "95630",
+        "nom_commune": "Mériel",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.205145",
+        "latitude": "49.078937"
+      },
+      "site": "https://www.meriel.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/102dca36-dbdd-4d70-ba7d-75530fe484cb"
+    },
+    "france_services": null
+  },
+  "95394": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95394",
+      "nom": "Mairie - Méry-sur-Oise",
+      "telephone": "01 30 36 23 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "14 avenue Marcel-Perrin",
+        "service_distribution": "",
+        "code_postal": "95540",
+        "nom_commune": "Méry-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.18455",
+        "latitude": "49.064442"
+      },
+      "site": "https://www.merysuroise.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/9d9db3aa-8786-416f-936b-50ca682f5257"
+    },
+    "france_services": null
+  },
+  "95395": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95395",
+      "nom": "Mairie - Le Mesnil-Aubry",
+      "telephone": "01 34 71 10 16",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95720",
+        "nom_commune": "Le Mesnil-Aubry",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.399873",
+        "latitude": "49.050703"
+      },
+      "site": "http://www.le-mesnil-aubry.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/8ab7032a-b7b3-449a-b5ff-8d0a20f1facb"
+    },
+    "france_services": null
+  },
+  "95409": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95409",
+      "nom": "Mairie - Moisselles",
+      "telephone": "01 39 91 05 72",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 rue du Moutier",
+        "service_distribution": "",
+        "code_postal": "95570",
+        "nom_commune": "Moisselles",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.33717989922",
+        "latitude": "49.0479011536"
+      },
+      "site": "http://www.mairie-moisselles.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/42381e22-7dc8-49e6-a6f0-705047c2d7db"
+    },
+    "france_services": null
+  },
+  "95422": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95422",
+      "nom": "Mairie - Montgeroult",
+      "telephone": "01 34 42 71 19",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "24 rue de la Vallée",
+        "service_distribution": "",
+        "code_postal": "95650",
+        "nom_commune": "Montgeroult",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.003491",
+        "latitude": "49.082358"
+      },
+      "site": "https://montgeroult.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5c204a44-a910-4844-bda0-118d7ad370b2"
+    },
+    "france_services": null
+  },
+  "95424": {
+    "services_count": 7,
+    "mairie": {
+      "code": "95424",
+      "nom": "Mairie - Montigny-lès-Cormeilles",
+      "telephone": "01 30 26 30 26",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 avenue Aristide-Maillol",
+        "service_distribution": "",
+        "code_postal": "95370",
+        "nom_commune": "Montigny-lès-Cormeilles",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.187929",
+        "latitude": "48.987412"
+      },
+      "site": "http://www.montigny95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/580e4635-d9fe-4fc2-a5f3-f0a710a0da56"
+    },
+    "france_services": {
+      "code": "95424",
+      "nom": "France services - Montigny-lès-Cormeilles",
+      "telephone": "01 86 23 06 45",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Pimms Médiation Montigny-les-Cormeiles",
+        "complement2": "",
+        "numero_voie": "2 résidence de la gare",
+        "service_distribution": "",
+        "code_postal": "95370",
+        "nom_commune": "Montigny-lès-Cormeilles",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.196781",
+        "latitude": "49.007291"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/acfb966c-8408-4533-9189-4166ff9b3988"
+    }
+  },
+  "95426": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95426",
+      "nom": "Mairie - Montlignon",
+      "telephone": "01 34 16 12 56",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95680",
+        "nom_commune": "Montlignon",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.28848004341",
+        "latitude": "49.0153007507"
+      },
+      "site": "http://www.village-de-montlignon.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5c193202-df75-4fba-888f-20b14ff07919"
+    },
+    "france_services": null
+  },
+  "95427": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95427",
+      "nom": "Mairie - Montmagny",
+      "telephone": "01 34 28 69 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "10 rue du 11-Novembre-1918",
+        "service_distribution": "",
+        "code_postal": "95360",
+        "nom_commune": "Montmagny",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.34589004517",
+        "latitude": "48.974899292"
+      },
+      "site": "http://www.villedemontmagny.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/085298fb-9d0c-44c1-829a-515f57cafaae"
+    },
+    "france_services": null
+  },
+  "95428": {
+    "services_count": 12,
+    "mairie": {
+      "code": "95428",
+      "nom": "Mairie - Montmorency",
+      "telephone": "01 39 34 98 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 avenue Foch",
+        "service_distribution": "BP 70101",
+        "code_postal": "95162",
+        "nom_commune": "Montmorency Cedex",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.320264",
+        "latitude": "48.990137"
+      },
+      "site": "https://www.ville-montmorency.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ed5ff127-0f44-4b1d-aa9d-27655a859af2"
+    },
+    "france_services": null
+  },
+  "95429": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95429",
+      "nom": "Mairie - Montreuil-sur-Epte",
+      "telephone": "01 34 67 61 68",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "27 rue Saint-Denis",
+        "service_distribution": "",
+        "code_postal": "95770",
+        "nom_commune": "Montreuil-sur-Epte",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.67734003067",
+        "latitude": "49.1754989624"
+      },
+      "site": "https://montreuil-sur-epte.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d52ca18d-46dc-4c16-bd76-38734a69fae1"
+    },
+    "france_services": null
+  },
+  "95430": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95430",
+      "nom": "Mairie - Montsoult",
+      "telephone": "01 34 08 31 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "21 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95560",
+        "nom_commune": "Montsoult",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.30661988258",
+        "latitude": "49.0772018433"
+      },
+      "site": "http://www.montsoult.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b48ab577-4823-4880-8292-e141cdc6e351"
+    },
+    "france_services": null
+  },
+  "95436": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95436",
+      "nom": "Mairie - Mours",
+      "telephone": "01 30 28 75 10",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 bis rue de Nointel",
+        "service_distribution": "",
+        "code_postal": "95260",
+        "nom_commune": "Mours",
+        "pays": "",
+        "continent": "",
+        "longitude": "2.2707046",
+        "latitude": "49.1337766"
+      },
+      "site": "https://www.mours.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/856e6fb3-4f33-4d01-b5b1-b448f34e15fc"
+    },
+    "france_services": null
+  },
+  "95438": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95438",
+      "nom": "Mairie - Moussy",
+      "telephone": "01 30 27 20 14",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 place du Prieuré",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Moussy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.909042",
+        "latitude": "49.137842"
+      },
+      "site": "https://moussy.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b2eb2a66-8f38-4a0d-b1be-5b67bc35101e"
+    },
+    "france_services": null
+  },
+  "95445": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95445",
+      "nom": "Mairie - Nerville-la-Forêt",
+      "telephone": "01 34 69 21 17",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "20 rue Saint-Claude",
+        "service_distribution": "",
+        "code_postal": "95590",
+        "nom_commune": "Nerville-la-Forêt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.27830004692",
+        "latitude": "49.0898017883"
+      },
+      "site": "http://www.nervillelaforet.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ea71a883-d5df-4318-bc74-127d06d76bf0"
+    },
+    "france_services": null
+  },
+  "95446": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95446",
+      "nom": "Mairie - Nesles-la-Vallée",
+      "telephone": "01 34 70 61 42",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Aristide-Partois",
+        "service_distribution": "",
+        "code_postal": "95690",
+        "nom_commune": "Nesles-la-Vallée",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.17018008232",
+        "latitude": "49.1283988953"
+      },
+      "site": "https://nesleslavallee.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/dcb3d04d-9b10-42ca-8faa-cd33ec6b093b"
+    },
+    "france_services": {
+      "code": "95446",
+      "nom": "France services - Nesles-la-Vallée",
+      "telephone": "06 31 57 85 71",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Bureau de poste",
+        "complement2": "",
+        "numero_voie": "12 boulevard Pasteur",
+        "service_distribution": "",
+        "code_postal": "95690",
+        "nom_commune": "Nesles-la-Vallée",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.169961",
+        "latitude": "49.128909"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/a7567954-0a17-4124-814f-e670360f55e0"
+    }
+  },
+  "95447": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95447",
+      "nom": "Mairie - Neuilly-en-Vexin",
+      "telephone": "01 30 39 73 08",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 place de l'Église",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Neuilly-en-Vexin",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.977729",
+        "latitude": "49.168867"
+      },
+      "site": "https://neuillyenvexin.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/894b7252-2cb7-4403-983d-a734be32beb6"
+    },
+    "france_services": null
+  },
+  "95450": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95450",
+      "nom": "Mairie - Neuville-sur-Oise",
+      "telephone": "01 34 24 09 17",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "65 rue Joseph-Cornudet",
+        "service_distribution": "",
+        "code_postal": "95000",
+        "nom_commune": "Neuville-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.06259989738",
+        "latitude": "49.0135002136"
+      },
+      "site": "http://www.neuvillesuroise.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/dcdfb882-6b38-45bc-840a-27b260304c54"
+    },
+    "france_services": null
+  },
+  "95452": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95452",
+      "nom": "Mairie - Nointel",
+      "telephone": "01 34 70 01 41",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de l'Orangerie",
+        "service_distribution": "",
+        "code_postal": "95590",
+        "nom_commune": "Nointel",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.28884005547",
+        "latitude": "49.1286010742"
+      },
+      "site": "http://www.nointel95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/70931cc8-399f-454e-835a-783f1c4843fa"
+    },
+    "france_services": null
+  },
+  "95456": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95456",
+      "nom": "Mairie - Noisy-sur-Oise",
+      "telephone": "01 34 70 03 90",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "9 rue Jules-Ferry",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Noisy-sur-Oise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.33018994331",
+        "latitude": "49.137298584"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/66cbd8cb-d1dc-4065-96aa-bf220a639f30"
+    },
+    "france_services": null
+  },
+  "95459": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95459",
+      "nom": "Mairie - Nucourt",
+      "telephone": "01 34 67 41 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Rue de la Boutrolle",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Nucourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.853252",
+        "latitude": "49.160184"
+      },
+      "site": "https://nucourt.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c4bbcdb0-ed41-4588-9a0b-8c0fe47a9ea5"
+    },
+    "france_services": null
+  },
+  "95462": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95462",
+      "nom": "Mairie - Omerville",
+      "telephone": "01 34 67 73 06",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 rue de l'École",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Omerville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.7216392",
+        "latitude": "49.140375"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/130fe181-af8e-402c-87c7-65d06995419c"
+    },
+    "france_services": null
+  },
+  "95476": {
+    "services_count": 8,
+    "mairie": {
+      "code": "95476",
+      "nom": "Mairie - Osny",
+      "telephone": "01 34 25 42 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Château de Grouchy",
+        "complement2": "",
+        "numero_voie": "14 rue William-Thornley",
+        "service_distribution": "",
+        "code_postal": "95520",
+        "nom_commune": "Osny",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.064952",
+        "latitude": "49.064054"
+      },
+      "site": "https://osny.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/efb2f344-c84b-42d8-bb9b-9094c01de3e6"
+    },
+    "france_services": null
+  },
+  "95480": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95480",
+      "nom": "Mairie - Parmain",
+      "telephone": "01 34 08 95 95",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Georges-Clemenceau",
+        "service_distribution": "",
+        "code_postal": "95620",
+        "nom_commune": "Parmain",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.20905995369",
+        "latitude": "49.1137008667"
+      },
+      "site": "https://ville-parmain.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/fb0f1a4a-1820-4220-98a5-2f9aa1e8b0f7"
+    },
+    "france_services": null
+  },
+  "95483": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95483",
+      "nom": "Mairie - Le Perchay",
+      "telephone": "01 34 66 03 83",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "4 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Le Perchay",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.9336734",
+        "latitude": "49.1102132"
+      },
+      "site": "http://www.leperchay.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d60f2d52-02b1-411f-bdfe-f891921a0faa"
+    },
+    "france_services": null
+  },
+  "95487": {
+    "services_count": 9,
+    "mairie": {
+      "code": "95487",
+      "nom": "Mairie - Persan",
+      "telephone": "01 39 37 48 80",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "65 avenue Gaston-Vermeire",
+        "service_distribution": "",
+        "code_postal": "95340",
+        "nom_commune": "Persan",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.27654004097",
+        "latitude": "49.1510009766"
+      },
+      "site": "http://www.ville-persan.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/bbe4004f-b789-409d-9238-eac8b42ef42b"
+    },
+    "france_services": null
+  },
+  "95488": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95488",
+      "nom": "Mairie - Pierrelaye",
+      "telephone": "01 34 32 31 30",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "42 bis rue Victor-Hugo",
+        "service_distribution": "",
+        "code_postal": "95480",
+        "nom_commune": "Pierrelaye",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.15387010574",
+        "latitude": "49.023601532"
+      },
+      "site": "http://www.villepierrelaye.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/3a8211ff-5967-4550-b0fe-5dccdcfabd08"
+    },
+    "france_services": null
+  },
+  "95489": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95489",
+      "nom": "Mairie - Piscop",
+      "telephone": "01 39 90 19 04",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95350",
+        "nom_commune": "Piscop",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.34253",
+        "latitude": "49.012446"
+      },
+      "site": "https://www.piscop.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/e7a97c51-f17d-4dd4-99a1-1049932c752e"
+    },
+    "france_services": null
+  },
+  "95491": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95491",
+      "nom": "Mairie - Le Plessis-Bouchard",
+      "telephone": "01 34 13 71 39",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Le Plessis-Bouchard",
+        "complement2": "",
+        "numero_voie": "3 bis rue Pierre-Brossolette",
+        "service_distribution": "BP 30029",
+        "code_postal": "95131",
+        "nom_commune": "Franconville Cedex",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.2348879",
+        "latitude": "49.0016205"
+      },
+      "site": "https://ville-le-plessis-bouchard.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d827bf64-1064-417d-8f1c-3ec65438ecc1"
+    },
+    "france_services": null
+  },
+  "95492": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95492",
+      "nom": "Mairie - Le Plessis-Gassot",
+      "telephone": "01 39 88 16 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "9 place de la Ferme-du-Château",
+        "service_distribution": "",
+        "code_postal": "95720",
+        "nom_commune": "Le Plessis-Gassot",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.412979",
+        "latitude": "49.03391"
+      },
+      "site": "http://www.mairie-leplessisgassot.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ff843565-3d0d-46dc-8f6d-01d8e22d7197"
+    },
+    "france_services": null
+  },
+  "95493": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95493",
+      "nom": "Mairie - Le Plessis-Luzarches",
+      "telephone": "01 34 71 02 96",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "7 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Le Plessis-Luzarches",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.4537438",
+        "latitude": "49.095863"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7d6e6a71-da94-4c23-89ed-1dcfa24fd1f1"
+    },
+    "france_services": null
+  },
+  "95500": {
+    "services_count": 28,
+    "mairie": {
+      "code": "95500",
+      "nom": "Mairie - Pontoise",
+      "telephone": "01 34 43 34 43",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 rue Victor-Hugo",
+        "service_distribution": "",
+        "code_postal": "95300",
+        "nom_commune": "Pontoise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.100258",
+        "latitude": "49.050805"
+      },
+      "site": "https://www.ville-pontoise.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/a3b4284c-066e-4541-af69-dcd6424b413c"
+    },
+    "france_services": null
+  },
+  "95504": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95504",
+      "nom": "Mairie - Presles",
+      "telephone": "01 30 28 73 73",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "78 rue Pierre-Brossolette",
+        "service_distribution": "",
+        "code_postal": "95590",
+        "nom_commune": "Presles",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.28098011017",
+        "latitude": "49.1147994995"
+      },
+      "site": "http://www.ville-presles.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/84be6a68-768b-4d52-aff4-b9af87c41d01"
+    },
+    "france_services": null
+  },
+  "95509": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95509",
+      "nom": "Mairie - Puiseux-en-France",
+      "telephone": "01 34 72 68 94",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Jean-Moulin",
+        "service_distribution": "",
+        "code_postal": "95380",
+        "nom_commune": "Puiseux-en-France",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.45272994041",
+        "latitude": "49.034198761"
+      },
+      "site": "https://www.puiseux-en-france.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/976b341b-b37e-41df-a487-616d84a0679a"
+    },
+    "france_services": null
+  },
+  "95510": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95510",
+      "nom": "Mairie - Puiseux-Pontoise",
+      "telephone": "01 34 46 10 82",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "12 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95650",
+        "nom_commune": "Puiseux-Pontoise",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.02215003967",
+        "latitude": "49.0569992065"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/e9383d6f-3a77-4ba6-a776-c482ed00caab"
+    },
+    "france_services": null
+  },
+  "95523": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95523",
+      "nom": "Mairie - La Roche-Guyon",
+      "telephone": "01 34 79 70 55",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "8 rue du Général-Leclerc",
+        "service_distribution": "",
+        "code_postal": "95780",
+        "nom_commune": "La Roche-Guyon",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.63127994537",
+        "latitude": "49.0822982788"
+      },
+      "site": "http://www.larocheguyon.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/19e1101c-484f-46cf-8d4d-ac16ac16c0a0"
+    },
+    "france_services": null
+  },
+  "95527": {
+    "services_count": 10,
+    "mairie": {
+      "code": "95527",
+      "nom": "Mairie - Roissy-en-France",
+      "telephone": "01 34 29 43 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "40 avenue Charles-de-Gaulle",
+        "service_distribution": "",
+        "code_postal": "95700",
+        "nom_commune": "Roissy-en-France",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.5175248",
+        "latitude": "49.0032992"
+      },
+      "site": "http://www.roissyenfrance.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/a55012fd-69c2-442d-a9e1-68213ee9c7cd"
+    },
+    "france_services": null
+  },
+  "95529": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95529",
+      "nom": "Mairie - Ronquerolles",
+      "telephone": "01 34 70 50 88",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "76 Grand'rue",
+        "service_distribution": "",
+        "code_postal": "95340",
+        "nom_commune": "Ronquerolles",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.2192299366",
+        "latitude": "49.1678009033"
+      },
+      "site": "http://www.mairieronquerolles95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/65b87126-6129-406c-8cee-007c31b0074c"
+    },
+    "france_services": null
+  },
+  "95535": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95535",
+      "nom": "Mairie - Sagy",
+      "telephone": "01 34 66 39 40",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Sagy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.951634",
+        "latitude": "49.0498"
+      },
+      "site": "http://www.sagy.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5de238bd-251d-409e-ba4c-663eb85a7c2d"
+    },
+    "france_services": null
+  },
+  "95539": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95539",
+      "nom": "Mairie - Saint-Brice-sous-Forêt",
+      "telephone": "01 34 29 42 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "14 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95350",
+        "nom_commune": "Saint-Brice-sous-Forêt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.357214",
+        "latitude": "48.997601"
+      },
+      "site": "http://www.saintbrice95.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/fd42b15a-703b-4f0a-8345-38ea0dcb214e"
+    },
+    "france_services": null
+  },
+  "95541": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95541",
+      "nom": "Mairie - Saint-Clair-sur-Epte",
+      "telephone": "01 34 67 60 42",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 place Rollon",
+        "service_distribution": "",
+        "code_postal": "95770",
+        "nom_commune": "Saint-Clair-sur-Epte",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.67888998985",
+        "latitude": "49.2066001892"
+      },
+      "site": "http://www.saint-clair-sur-epte.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0a265ca6-8ec2-4941-9274-cbe0a333b7c4"
+    },
+    "france_services": null
+  },
+  "95543": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95543",
+      "nom": "Mairie - Saint-Cyr-en-Arthies",
+      "telephone": "01 34 78 14 52",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 rue du Parc",
+        "service_distribution": "",
+        "code_postal": "95510",
+        "nom_commune": "Saint-Cyr-en-Arthies",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.7420899868",
+        "latitude": "49.0611000061"
+      },
+      "site": "http://saint-cyr-en-arthies.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/cdbb8c59-0e2e-4e40-b44d-1be2dc7223b2"
+    },
+    "france_services": null
+  },
+  "95554": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95554",
+      "nom": "Mairie - Saint-Gervais",
+      "telephone": "01 34 67 02 71",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "21 rue Robert-Guesnier",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Saint-Gervais",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.76926994324",
+        "latitude": "49.168598175"
+      },
+      "site": "https://mairie-saintgervais.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/5924ef0d-3d8a-4b76-9c51-53582b70720f"
+    },
+    "france_services": null
+  },
+  "95555": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95555",
+      "nom": "Mairie - Saint-Gratien",
+      "telephone": "01 34 17 84 84",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Gambetta",
+        "service_distribution": "BP 21",
+        "code_postal": "95210",
+        "nom_commune": "Saint-Gratien",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.28377008438",
+        "latitude": "48.970500946"
+      },
+      "site": "https://www.ville-saintgratien.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/a569d202-440f-4030-913a-4be95eb052c4"
+    },
+    "france_services": null
+  },
+  "95563": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95563",
+      "nom": "Mairie - Saint-Leu-la-Forêt",
+      "telephone": "01 30 40 22 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "52 rue du Général-Leclerc",
+        "service_distribution": "",
+        "code_postal": "95320",
+        "nom_commune": "Saint-Leu-la-Forêt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.24361300468",
+        "latitude": "49.0187721252"
+      },
+      "site": "http://www.saint-leu-la-foret.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/97f9af13-3a9b-4ba0-92ce-e3198e6a4f84"
+    },
+    "france_services": null
+  },
+  "95566": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95566",
+      "nom": "Mairie - Saint-Martin-du-Tertre",
+      "telephone": "01 34 09 15 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Louis-Desenclos",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Saint-Martin-du-Tertre",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.348136",
+        "latitude": "49.1086106"
+      },
+      "site": "https://www.mairie-saintmartin95.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7c92baf8-cdd7-47eb-b186-72adc74e3881"
+    },
+    "france_services": {
+      "code": "95566",
+      "nom": "France services - Saint-Martin-du-Tertre",
+      "telephone": "01 34 09 15 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Mairie",
+        "complement2": "",
+        "numero_voie": "Place Louis Desenclos",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Saint-Martin-du-Tertre",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.348226",
+        "latitude": "49.108131"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/482e6760-1337-4e96-8a01-61c4ad003aad"
+    }
+  },
+  "95572": {
+    "services_count": 11,
+    "mairie": {
+      "code": "95572",
+      "nom": "Mairie - Saint-Ouen-l'Aumône",
+      "telephone": "01 34 21 25 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 place Pierre-Mendès-France",
+        "service_distribution": "",
+        "code_postal": "95310",
+        "nom_commune": "Saint-Ouen-l'Aumône",
+        "pays": "",
+        "continent": "",
+        "longitude": "2.1065808",
+        "latitude": "49.0440975"
+      },
+      "site": "https://www.ville-soa.fr/fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/f4d19a85-f76c-4dc1-9616-68132e38b64f"
+    },
+    "france_services": {
+      "code": "95572",
+      "nom": "France services - Saint-Ouen-L'Aumône",
+      "telephone": "01 34 21 25 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 place Mendès France",
+        "service_distribution": "",
+        "code_postal": "95310",
+        "nom_commune": "Saint-Ouen-l'Aumône",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.1074485778808594",
+        "latitude": "49.044857025146484"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/04b3d7c4-a449-429d-9e14-74e65d74cc5b"
+    }
+  },
+  "95574": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95574",
+      "nom": "Mairie - Saint-Prix",
+      "telephone": "01 34 27 44 44",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "45 rue d'Ermont",
+        "service_distribution": "BP 30013",
+        "code_postal": "95390",
+        "nom_commune": "Saint-Prix",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.26186990738",
+        "latitude": "49.0069007874"
+      },
+      "site": "http://www.saintprix.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7ff72d0e-0ac8-4fd7-95c4-43d81ba5d56c"
+    },
+    "france_services": null
+  },
+  "95580": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95580",
+      "nom": "Mairie - Saint-Witz",
+      "telephone": "01 34 68 26 20",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 place Isabelle-de-Vy",
+        "service_distribution": "",
+        "code_postal": "95470",
+        "nom_commune": "Saint-Witz",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.56890010834",
+        "latitude": "49.0924987793"
+      },
+      "site": "http://www.saint-witz.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d390b43e-7c7e-4625-9ff1-fa4ca42a8285"
+    },
+    "france_services": null
+  },
+  "95582": {
+    "services_count": 9,
+    "mairie": {
+      "code": "95582",
+      "nom": "Mairie - Sannois",
+      "telephone": "01 39 98 20 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place du Général-Leclerc",
+        "service_distribution": "BP 60088",
+        "code_postal": "95111",
+        "nom_commune": "Sannois Cedex",
+        "pays": "",
+        "continent": "",
+        "longitude": "2.256865",
+        "latitude": "48.971554"
+      },
+      "site": "https://www.ville-sannois.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c98ff477-26a2-4a63-8702-e18d9e5cbd07"
+    },
+    "france_services": null
+  },
+  "95584": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95584",
+      "nom": "Mairie - Santeuil",
+      "telephone": "01 30 39 73 25",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place du Général-Leclerc",
+        "service_distribution": "",
+        "code_postal": "95640",
+        "nom_commune": "Santeuil",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.950234",
+        "latitude": "49.125865"
+      },
+      "site": "http://www.santeuil.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/2b806efd-2768-42c6-b6ed-54ff2690fa38"
+    },
+    "france_services": null
+  },
+  "95585": {
+    "services_count": 25,
+    "mairie": {
+      "code": "95585",
+      "nom": "Mairie - Sarcelles",
+      "telephone": "01 34 38 21 40",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Hôtel de Ville",
+        "complement2": "",
+        "numero_voie": "3 rue de la Résistance",
+        "service_distribution": "",
+        "code_postal": "95200",
+        "nom_commune": "Sarcelles",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.3784812",
+        "latitude": "48.9977119"
+      },
+      "site": "https://www.sarcelles.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/e8a4aacc-93be-452d-a674-3223965f06fa"
+    },
+    "france_services": {
+      "code": "95585",
+      "nom": "France services - Sarcelles - Sablons",
+      "telephone": "01 39 86 96 73",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Plateforme de services publics Sablons",
+        "complement2": "",
+        "numero_voie": "14 rue Raoul Dufy",
+        "service_distribution": "",
+        "code_postal": "95200",
+        "nom_commune": "Sarcelles",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.380746",
+        "latitude": "48.972282"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0bf14a2a-ff09-4bde-b4f7-da596de39401"
+    }
+  },
+  "95592": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95592",
+      "nom": "Mairie - Seraincourt",
+      "telephone": "01 34 75 40 39",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "12 rue des Vallées",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Seraincourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.865272",
+        "latitude": "49.035511"
+      },
+      "site": "https://www.seraincourt95.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0657d679-fb0b-4cb6-b032-67b5725f1857"
+    },
+    "france_services": null
+  },
+  "95594": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95594",
+      "nom": "Mairie - Seugy",
+      "telephone": "01 30 35 41 29",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 rue de la Fontaine",
+        "service_distribution": "",
+        "code_postal": "95270",
+        "nom_commune": "Seugy",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.39439",
+        "latitude": "49.12158"
+      },
+      "site": "https://mairie-seugy.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d7bc82d5-70fc-46fe-8fed-5ff26a5fccc7"
+    },
+    "france_services": null
+  },
+  "95598": {
+    "services_count": 5,
+    "mairie": {
+      "code": "95598",
+      "nom": "Mairie - Soisy-sous-Montmorency",
+      "telephone": "01 34 05 20 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Hôtel de Ville",
+        "complement2": "",
+        "numero_voie": "2 avenue du Général-de-Gaulle",
+        "service_distribution": "BP 50029",
+        "code_postal": "95232",
+        "nom_commune": "Soisy-sous-Montmorency Cedex",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.3000600338",
+        "latitude": "48.9859008789"
+      },
+      "site": "http://www.soisy-sous-montmorency.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0e4a954e-774f-4b96-8142-ed35f34eeac5"
+    },
+    "france_services": null
+  },
+  "95604": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95604",
+      "nom": "Mairie - Survilliers",
+      "telephone": "01 34 68 26 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 rue de la Liberté",
+        "service_distribution": "",
+        "code_postal": "95470",
+        "nom_commune": "Survilliers",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.54343008995",
+        "latitude": "49.0988998413"
+      },
+      "site": "https://survilliers.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/f571d982-0eef-4edd-891a-cd4ad895a572"
+    },
+    "france_services": null
+  },
+  "95607": {
+    "services_count": 9,
+    "mairie": {
+      "code": "95607",
+      "nom": "Mairie - Taverny",
+      "telephone": "01 30 40 50 60",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "2 place Charles-de-Gaulle",
+        "service_distribution": "BP 90002",
+        "code_postal": "95150",
+        "nom_commune": "Taverny",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.2261067",
+        "latitude": "49.0266189"
+      },
+      "site": "http://www.ville-taverny.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d47ff028-f237-4dc9-914d-02fc117b2671"
+    },
+    "france_services": {
+      "code": "95607",
+      "nom": "France services - Taverny",
+      "telephone": "01 30 40 50 95",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Espace Marianne",
+        "complement2": "",
+        "numero_voie": "2 place de la Gare",
+        "service_distribution": "",
+        "code_postal": "95150",
+        "nom_commune": "Taverny",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.221537",
+        "latitude": "49.025835"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/fad2ac2f-553e-406e-9d8f-622cb981c7d3"
+    }
+  },
+  "95610": {
+    "services_count": 3,
+    "mairie": {
+      "code": "95610",
+      "nom": "Mairie - Théméricourt",
+      "telephone": "01 30 39 20 62",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 rue Achim-d'Abos",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Théméricourt",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.896269",
+        "latitude": "49.0867"
+      },
+      "site": "https://www.themericourt.com",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/26d487cf-cf4b-418d-81c9-0631ddd39a1c"
+    },
+    "france_services": null
+  },
+  "95611": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95611",
+      "nom": "Mairie - Theuville",
+      "telephone": "01 34 66 50 07",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 ruelle des Jardins",
+        "service_distribution": "",
+        "code_postal": "95810",
+        "nom_commune": "Theuville",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.07230806351",
+        "latitude": "49.153968811"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/fdac9777-e2c6-4045-bb8a-9f641c3917ea"
+    },
+    "france_services": null
+  },
+  "95612": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95612",
+      "nom": "Mairie - Le Thillay",
+      "telephone": "01 39 33 91 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "21 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95500",
+        "nom_commune": "Le Thillay",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.469916",
+        "latitude": "49.001849"
+      },
+      "site": "https://www.mairie-le-thillay.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/17c52e52-51a8-4931-a59b-3ad915eda82d"
+    },
+    "france_services": null
+  },
+  "95625": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95625",
+      "nom": "Mairie - Us",
+      "telephone": "01 34 66 01 16",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 rue de la Libération",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Us",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.967228",
+        "latitude": "49.101188"
+      },
+      "site": "https://us-en-vexin.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/063c8d7d-c90c-48ae-986e-735d25e153ac"
+    },
+    "france_services": null
+  },
+  "95627": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95627",
+      "nom": "Mairie - Vallangoujard",
+      "telephone": "01 34 66 51 11",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "17 rue de Marines",
+        "service_distribution": "",
+        "code_postal": "95810",
+        "nom_commune": "Vallangoujard",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.10052990913",
+        "latitude": "49.141998291"
+      },
+      "site": "http://www.vallangoujard.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/3eeb4df5-c683-45db-a3b9-a5584b41c6ca"
+    },
+    "france_services": null
+  },
+  "95628": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95628",
+      "nom": "Mairie - Valmondois",
+      "telephone": "01 34 73 06 26",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "28 Grande rue",
+        "service_distribution": "",
+        "code_postal": "95760",
+        "nom_commune": "Valmondois",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.19032001495",
+        "latitude": "49.0961990356"
+      },
+      "site": "https://valmondois.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d718c0ae-7a83-43af-8bcb-9863d8c0715b"
+    },
+    "france_services": null
+  },
+  "95633": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95633",
+      "nom": "Mairie - Vaudherland",
+      "telephone": "01 39 88 57 84",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "11 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95500",
+        "nom_commune": "Vaudherland",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.4875414",
+        "latitude": "49.0014007"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c7d0b561-073b-446c-9451-6a70a5dadc5f"
+    },
+    "france_services": null
+  },
+  "95637": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95637",
+      "nom": "Mairie - Vauréal",
+      "telephone": "01 34 24 53 53",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "1 place du Coeur-Battant",
+        "service_distribution": "CS 10039",
+        "code_postal": "95490",
+        "nom_commune": "Vauréal",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.021182",
+        "latitude": "49.030119"
+      },
+      "site": "https://vaureal.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/dd6a7b83-ed3e-46a9-bb6b-dd2f210fb8c3"
+    },
+    "france_services": null
+  },
+  "95641": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95641",
+      "nom": "Mairie - Vémars",
+      "telephone": "01 34 68 33 40",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 rue Léon-Bouchard",
+        "service_distribution": "",
+        "code_postal": "95470",
+        "nom_commune": "Vémars",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.566065",
+        "latitude": "49.067867"
+      },
+      "site": "https://mairiedevemars.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/0c1acfee-33f4-468c-8c6c-1ca0b00b5d61"
+    },
+    "france_services": null
+  },
+  "95651": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95651",
+      "nom": "Mairie - Vétheuil",
+      "telephone": "01 34 78 13 18",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 place de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95510",
+        "nom_commune": "Vétheuil",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.701833",
+        "latitude": "49.06287"
+      },
+      "site": "https://mairie-vetheuil.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/8ce108b0-22dc-4dd7-a040-0d9daac07cfa"
+    },
+    "france_services": null
+  },
+  "95652": {
+    "services_count": 4,
+    "mairie": {
+      "code": "95652",
+      "nom": "Mairie - Viarmes",
+      "telephone": "01 34 09 26 26",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Pierre-Salvi",
+        "service_distribution": "CS 60010",
+        "code_postal": "95270",
+        "nom_commune": "Viarmes",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.3696034",
+        "latitude": "49.1259873"
+      },
+      "site": "http://www.viarmes.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/d43d0351-6c3f-4027-b170-5b8bd9158c25"
+    },
+    "france_services": null
+  },
+  "95656": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95656",
+      "nom": "Mairie - Vienne-en-Arthies",
+      "telephone": "01 34 78 13 59",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "18 route de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95510",
+        "nom_commune": "Vienne-en-Arthies",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.71639001369",
+        "latitude": "49.0652008057"
+      },
+      "site": "http://www.vienne-en-arthies.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/08dc65c6-ece9-4c27-b7e7-93f4428efe08"
+    },
+    "france_services": null
+  },
+  "95658": {
+    "services_count": 6,
+    "mairie": {
+      "code": "95658",
+      "nom": "Mairie - Vigny",
+      "telephone": "01 30 39 21 20",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "4 rue Beaudouin",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Vigny",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.92654001713",
+        "latitude": "49.0775985718"
+      },
+      "site": "https://www.vigny.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/84267bed-5f6b-48c5-a988-8d1771554abe"
+    },
+    "france_services": {
+      "code": "95658",
+      "nom": "France services - Vigny",
+      "telephone": "01 34 32 53 56",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "Bureau de poste",
+        "complement2": "",
+        "numero_voie": "1 rue du Général-Leclerc",
+        "service_distribution": "",
+        "code_postal": "95450",
+        "nom_commune": "Vigny",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.927541",
+        "latitude": "49.077297"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/93b055c4-6b3b-42c0-903c-e9df949acd4e"
+    }
+  },
+  "95660": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95660",
+      "nom": "Mairie - Villaines-sous-Bois",
+      "telephone": "01 30 35 78 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "8 rue de la Gare",
+        "service_distribution": "",
+        "code_postal": "95570",
+        "nom_commune": "Villaines-sous-Bois",
+        "pays": "",
+        "continent": "",
+        "longitude": "2.356252",
+        "latitude": "49.0767267"
+      },
+      "site": "https://villaines-sous-bois.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/c094e71d-8355-471b-8c45-2fe20ba96cf7"
+    },
+    "france_services": null
+  },
+  "95675": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95675",
+      "nom": "Mairie - Villeron",
+      "telephone": "01 34 68 15 00",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "25 rue Saint-Germain",
+        "service_distribution": "",
+        "code_postal": "95380",
+        "nom_commune": "Villeron",
+        "pays": "",
+        "continent": "",
+        "longitude": "2.5405973",
+        "latitude": "49.0566392"
+      },
+      "site": "https://www.villeron.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/7a1ccdf6-80cf-4271-9325-ab5bd11101e0"
+    },
+    "france_services": null
+  },
+  "95676": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95676",
+      "nom": "Mairie - Villers-en-Arthies",
+      "telephone": "01 34 78 17 15",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "3 route de Vétheuil",
+        "service_distribution": "",
+        "code_postal": "95510",
+        "nom_commune": "Villers-en-Arthies",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.7238099575",
+        "latitude": "49.0867004395"
+      },
+      "site": "https://villersenarthies.fr/",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/b9b0a4dd-f967-4bf4-8169-935d816de797"
+    },
+    "france_services": null
+  },
+  "95678": {
+    "services_count": 2,
+    "mairie": {
+      "code": "95678",
+      "nom": "Mairie - Villiers-Adam",
+      "telephone": "01 34 69 28 17",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "Place Victor-Hugo",
+        "service_distribution": "",
+        "code_postal": "95840",
+        "nom_commune": "Villiers-Adam",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.235307",
+        "latitude": "49.064213"
+      },
+      "site": "https://lapagelocale.fr/95840-villiers-adam",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/20c972bb-d92d-400e-8a36-8d022ecff24d"
+    },
+    "france_services": null
+  },
+  "95680": {
+    "services_count": 11,
+    "mairie": {
+      "code": "95680",
+      "nom": "Mairie - Villiers-le-Bel",
+      "telephone": "01 34 29 28 27",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "32 rue de la République",
+        "service_distribution": "",
+        "code_postal": "95400",
+        "nom_commune": "Villiers-le-Bel",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.3846182",
+        "latitude": "49.0014803"
+      },
+      "site": "https://www.ville-villiers-le-bel.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ec2f68b5-445a-4ae2-9d7b-48e1b4e4e739"
+    },
+    "france_services": {
+      "code": "95680",
+      "nom": "France services - Villiers-le-Bel",
+      "telephone": "01 34 29 28 27",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "32 rue de la République",
+        "service_distribution": "",
+        "code_postal": "95400",
+        "nom_commune": "Villiers-le-Bel",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.387811",
+        "latitude": "49.006747"
+      },
+      "site": "https://www.france-services.gouv.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/016329ec-673a-4eba-b982-a263788ce68e"
+    }
+  },
+  "95682": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95682",
+      "nom": "Mairie - Villiers-le-Sec",
+      "telephone": "01 34 71 19 38",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "5 rue de Paris",
+        "service_distribution": "",
+        "code_postal": "95720",
+        "nom_commune": "Villiers-le-Sec",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "2.3898354",
+        "latitude": "49.0725205"
+      },
+      "site": null,
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/21fc5e3a-c364-4821-ac6f-ca8cd9b93e56"
+    },
+    "france_services": null
+  },
+  "95690": {
+    "services_count": 1,
+    "mairie": {
+      "code": "95690",
+      "nom": "Mairie - Wy-dit-Joli-Village",
+      "telephone": "01 34 67 41 72",
+      "adresse": {
+        "type_adresse": "Adresse",
+        "complement1": "",
+        "complement2": "",
+        "numero_voie": "4 rue de la Mairie",
+        "service_distribution": "",
+        "code_postal": "95420",
+        "nom_commune": "Wy-dit-Joli-Village",
+        "pays": "France",
+        "continent": "Europe",
+        "longitude": "1.83548998833",
+        "latitude": "49.1024017334"
+      },
+      "site": "http://www.wy-dit-joli-village.fr",
+      "url": "https://lannuaire.service-public.gouv.fr/ile-de-france/val-d-oise/ce70201f-379f-460f-ac9b-5ab951e122cf"
+    },
+    "france_services": null
+  }
+}
