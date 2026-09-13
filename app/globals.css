@@ -129,7 +129,7 @@
 .practical-section.moving{background:#edf8ff;border-color:#cceafb}.practical-section.moving>header>i{background:#83dcff;color:#003f69}
 .practical-section.services{background:#effbf3;border-color:#ccebd8}.practical-section.services>header>i{background:#9de2b6;color:#07552e}
 .practical-section.alert{background:#fff1f1;border-color:#ffd1d1}.practical-section.alert>header>i{background:#ffc4c4;color:#821b22}
-.portal-data-grid{margin:0;display:grid;grid-template-columns:1fr 1fr;gap:7px}
+.portal-data-grid{margin:0;display:grid;grid-template-columns:1fr 1fr;gap:7px}.bars+.portal-data-grid{margin-top:16px}
 .portal-data-grid>div{min-width:0;padding:9px 10px;border-radius:10px;background:#ffffffc9;border:1px solid #ffffff}
 .portal-data-grid dt{color:#667085;font-size:9px;font-weight:750;line-height:1.25}
 .portal-data-grid dd{margin:4px 0 0;color:#202638;font-size:12px;font-weight:900;line-height:1.35;overflow-wrap:anywhere}
