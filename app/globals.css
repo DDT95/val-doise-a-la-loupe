@@ -190,6 +190,10 @@
 .housing-market{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-bottom:9px}
 .housing-market article{padding:11px;border-radius:11px;background:#fff;display:flex;flex-direction:column;gap:4px}
 .housing-market span{color:#745f31;font-size:9px;font-weight:800}.housing-market strong{color:#704100;font-size:16px;font-weight:950;line-height:1.08}.housing-market small{color:#7d7157;font-size:8px;font-weight:650;line-height:1.3}
+@keyframes skeleton-pulse{0%,100%{opacity:.45}50%{opacity:.9}}
+.skeleton{display:block;border-radius:5px;background:#d8c9a3;animation:skeleton-pulse 1.1s ease-in-out infinite}
+.skel-strong{width:58%;height:15px;margin-top:2px}.skel-strong.large{height:20px}
+.skel-small{width:82%;height:8px;margin-top:5px}
 .subsection-title{margin:14px 0 8px;color:#343b50;font-size:13px;font-weight:950;letter-spacing:-.01em}
 .territory-dynamics{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;margin-bottom:10px}
 .territory-dynamics article{min-width:0;padding:11px;border-radius:11px;background:#fff;display:flex;flex-direction:column;gap:4px;border:1px solid #f5e4b9}
