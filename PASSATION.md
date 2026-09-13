@@ -30,8 +30,8 @@ Le projet reste un outil public de connaissance territoriale. Il ne doit pas dev
 
 - Site : https://portraits-val-doise.wilkob13.chatgpt.site
 - Projet Sites : `appgprj_6aa5a07303888191bd0cf12a8de08828`
-- Version actuellement en production : **v22**
-- Commit actuellement publié : `af2414ad3fa1f6b123655edf0b661fd9facfdc98`
+- Version actuellement en production : **v23**
+- Commit actuellement publié : `0a15a6c9a97c4d3d28354970b174c7c1b35c5f63`
 - Accès actuel : propriétaire uniquement / personnalisé.
 
 La production contient déjà :
