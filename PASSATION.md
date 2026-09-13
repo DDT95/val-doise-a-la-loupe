@@ -1,5 +1,7 @@
 # Passation — Le Val-d’Oise à la loupe
 
+> Mise à jour du 13 septembre 2026 : les corrections prioritaires décrites dans ce document ont été réalisées. Le bloc des contacts publics a été réorganisé, les nouveaux indicateurs ont reçu leur mise en forme responsive et la lecture du fichier de transports a été réparée. Les contrôles retrouvent 6 lignes et 9 arrêts à Magny-en-Vexin.
+
 ## 1. Objectif du projet
 
 Créer un atlas communal interactif destiné au grand public, porté par la DDT du Val-d’Oise. Le site doit raconter chaque commune avec des données publiques synthétiques, fiables et immédiatement compréhensibles.
@@ -47,7 +49,7 @@ La production contient déjà :
 - les estimations de loyers ANIL 2025 et les prix DVF 2021–2025 ;
 - les graphiques détaillés repliables dans le volet communal.
 
-## 4. État local au moment de la passation
+## 4. État du lot de corrections
 
 Répertoire du projet :
 
@@ -55,7 +57,7 @@ Répertoire du projet :
 /workspace/sites/portraits-val-doise
 ```
 
-Les derniers enrichissements ont été commencés localement mais **ne sont pas encore publiés dans la v22**. Ils concernent :
+Les enrichissements suivants ont été implémentés et validés avant publication :
 
 - la correction du calcul spatial des arrêts de transport ;
 - l’ajout des services publics par commune ;
@@ -68,7 +70,7 @@ Fichiers concernés :
 
 - `app/page.tsx` — modifié localement ;
 - `public/data/public_services_95.json` — nouveau fichier local ;
-- `app/globals.css` — styles complémentaires encore à écrire ;
+- `app/globals.css` — styles responsive des nouvelles cartes et des contacts ;
 - `tsconfig.tsbuildinfo` — fichier généré localement, à ne pas versionner.
 
 ## 5. Modifications déjà commencées localement
@@ -122,13 +124,13 @@ Le volet communal calcule maintenant :
 
 Le détail comprend notamment écoles, collèges, lycées, médecins, pharmacies, supermarchés, supérettes, épiceries, boulangeries, établissements actifs et créations d’entreprises.
 
-## 6. Corrections prioritaires restantes
+## 6. Corrections prioritaires réalisées
 
-### Priorité 1 — Refaire le bloc « Le territoire public »
+### Priorité 1 — Bloc des services publics
 
 Le numéro de la gendarmerie apparaît actuellement dans une ligne séparée intitulée « Unité de secteur ». C’est ambigu et illisible.
 
-Remplacer ce bloc par des cartes ou lignes de contact explicites :
+Le bloc a été remplacé par des cartes de contact explicites :
 
 1. **Mairie** — nom, adresse et téléphone ;
 2. **France Services** — nom, adresse et téléphone, ou « Pas de guichet dans la commune » ;
@@ -136,9 +138,9 @@ Remplacer ce bloc par des cartes ou lignes de contact explicites :
 
 Chaque téléphone doit être placé directement en face du service concerné et être cliquable avec un lien `tel:`. Ne jamais afficher un numéro sans dire clairement à quel organisme il appartient.
 
-### Priorité 2 — Terminer le style des nouveaux blocs
+### Priorité 2 — Style des nouveaux blocs
 
-Ajouter dans `app/globals.css` les styles de :
+Les styles suivants ont été ajoutés dans `app/globals.css` :
 
 - `.subsection-title` ;
 - `.territory-dynamics` ;
@@ -146,13 +148,14 @@ Ajouter dans `app/globals.css` les styles de :
 
 Attendus : trois cartes lisibles sur ordinateur, empilement propre sur mobile, couleurs par thème, hiérarchie forte et alignement label/valeur.
 
-### Priorité 3 — Valider les transports
+### Priorité 3 — Transports
 
-- Vérifier Magny-en-Vexin après la correction de projection.
+- Magny-en-Vexin a été vérifiée après la correction : 6 lignes et 9 arrêts sont retrouvés.
+- La lecture sépare désormais correctement `MOBILITY95` du second objet `COMMUNES95` présent dans le même fichier JavaScript.
 - Vérifier une commune très rurale sans desserte pour distinguer un vrai zéro d’une donnée absente.
 - Ne pas présenter une absence de résultat technique comme une certitude sur l’absence de transport.
 
-### Priorité 4 — Vérifier les données pratiques
+### Priorité 4 — Données pratiques
 
 - Contrôler au minimum Magny-en-Vexin, Cergy, Guiry-en-Vexin et une petite commune rurale.
 - Afficher `0` lorsqu’il s’agit d’un zéro connu et `—` lorsque la donnée est absente.
